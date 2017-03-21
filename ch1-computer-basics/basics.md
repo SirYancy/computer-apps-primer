@@ -8,9 +8,14 @@ In 1949, *Popular Mechanics* boasted that “Computers of the future may weight 
 
 In today’s digital world, when we talk about digital computing, we are talking about general purpose computing machines. These are incredibly complex machines that can be programmed to solve (in theory) any mathematical problem. At its core, a computer is a machine that just solves math problems. Very clever mathematicians and computer scientists have found ways to use these math problems to represent just about every conceivable thing in the world. Everything from a text file, to a picture, to a piece of music. And we can do this with amazing accuracy. And so increasingly, computers are taking over more and more of the work that humans used to do. And now we embed them in everything from coffee machines, to robots, to self-driving cars. We carry them around in our pockets. We operate them at our jobs. They are in our entertainment devices. They even have [internet connected toilets](http://www.wired.com/insights/2014/04/toilet-role-internet-things/). It is estimated that could be around [50 billion](http://www.statista.com/statistics/471264/iot-number-of-connected-devices-worldwide/) devices connected to the internet by 2020.
 
+![desktop](desktop_example.jpg)<br>
+**A desktop computer**
+
 Today’s smartphone is 58,000 times more powerful than the Apollo Lander that went to the moon. There is more knowledge and information at our fingertips that at any time in human history. With all of that power and complexity, comes some very real dangers. For one, they are actually hard to use. If you are a computer expert, perhaps you don’t fully understand just how much knowledge you take for granted. For many people, they are very intimidating. Let’s attempt to de-mystify them.
 
-**images**
+![hierarchy](https://upload.wikimedia.org/wikipedia/commons/e/e1/Operating_system_placement.svg)<br>
+**Computer Hierarchy
+Source: By Golftheman (Own work) [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons%20.wikimedia.org/wiki/File%3AOperating_system_placement.svg)**
 
 A computer is a shockingly complex machine. Even the simplest computer has millions of components. Some of the most advanced CPUSs in the world today sport billions of transistors, each measuring only about 20 nanometers, many times smaller than the width of a human hair. It is impossible for a human to even hold that mental concept in his or her mind. So how do we deal with that kind of complexity? Let’s talk about **interfaces**.
 
