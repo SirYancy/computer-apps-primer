@@ -18,7 +18,7 @@ A computer is a shockingly complex machine. Even the simplest computer has milli
 
 There are four main components that a computer needs to operate and they are all separated by interfaces. An interface in computer science is the place where two systems interact with each other. For example, the interface between the user and the application that the user is working on might consist of a keyboard, a mouse, and a display.
 
-THE USER
+**THE USER**
 
 The User is you. If you are reading this text, you are already a computer user and are likely interfacing with it. The interface that you see is probably a web browser window, and the text has been downloaded to that web browser from a web server somewhere in the world.
 
