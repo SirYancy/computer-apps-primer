@@ -1,5 +1,4 @@
 # Summary
 
 * [Introduction](README.md)
-* [Computer Basics](computer-basics.md)
-
+* [Chapter 1 - Computer Basics](ch1-computer-basics/computer-basics.md)
