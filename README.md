@@ -8,7 +8,7 @@ This living text will cover the basic use of computer software. Topics will incl
 
 ## Table of Contents
 
-* Computer Basics
+* [Chapter 1 - Computer Basics](ch1-computer-basics/basics.md)
 * The Operating System
 * The File System
 * Productivity Software

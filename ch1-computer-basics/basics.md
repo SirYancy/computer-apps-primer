@@ -17,59 +17,64 @@ A computer is a shockingly complex machine. Even the simplest computer has milli
 ## Parts of a Computer
 
 There are four main components that a computer needs to operate and they are all separated by interfaces. An interface in computer science is the place where two systems interact with each other. For example, the interface between the user and the application that the user is working on might consist of a keyboard, a mouse, and a display.
+<dl>
 
-**THE USER**
+<dt>THE USER</dt>
+<dd>The User is you. If you are reading this text, you are already a computer user and are likely interfacing with it. The interface that you see is probably a web browser window, and the text has been downloaded to that web browser from a web server somewhere in the world.</dd>
 
-The User is you. If you are reading this text, you are already a computer user and are likely interfacing with it. The interface that you see is probably a web browser window, and the text has been downloaded to that web browser from a web server somewhere in the world.
+<dt>THE APPLICATION LAYER</dt>
+<dd>Most often, when using a computer, you will use some sort of application, or app. This might be a web browser, a word processor, a photo editor, or a video game. Applications are self-contained programs which are designed to assist the user in completing some specific task.</dd>
 
-THE APPLICATION LAYER
+<dt>THE OPERATING SYSTEM LAYER</dt>
+<dd>The Operating System is the main software of the computer. It is usually installed immediately after the machine is manufactured or assembled, and it governs almost all of the computer’s operations. It creates a layer of abstraction between the user, the apps, and the hardware. If you are taking my class, the operating system you are most likely using is called Microsoft Windows 7, though many of the same principles and conventions are followed in most modern operating systems.</dd>
 
-Most often, when using a computer, you will use some sort of application, or app. This might be a web browser, a word processor, a photo editor, or a video game. Applications are self-contained programs which are designed to assist the user in completing some specific task.
+<dt>THE HARDWARE</dt>
+<dd>At the very bottom of the computer hierarchy is the hardware, the bare metal. This text is not designed to go into a great amount of detail about the hardware, as it is primarily geared toward a computer applications class, however, it is probably a good idea to understand what at least some of the hardware components of a computer are, such as the CPU and memory, and a little bit about what those things mean. Especially if you are planning on purchasing a computer yourself. And so, below, you can see a brief overview of the modern computer hardware architecture, otherwise known as the Von Neumann architecture.</dd>
+</dl>
 
-THE OPERATING SYSTEM LAYER
+## How a computer works
 
-The Operating System is the main software of the computer. It is usually installed immediately after the machine is manufactured or assembled, and it governs almost all of the computer’s operations. It creates a layer of abstraction between the user, the apps, and the hardware. If you are taking my class, the operating system you are most likely using is called Microsoft Windows 7, though many of the same principles and conventions are followed in most modern operating systems.
+![Von Neumann Architecture](https://upload.wikimedia.org/wikipedia/commons/e/e5/Von_Neumann_Architecture.svg)
 
-THE HARDWARE
+**Von Neumann Architecture**
+**By Kapooht (Own work) [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3AVon_Neumann_Architecture.svg)**
 
-At the very bottom of the computer hierarchy is the hardware, the bare metal. This text is not designed to go into a great amount of detail about the hardware, as it is primarily geared toward a computer applications class, however, it is probably a good idea to understand what at least some of the hardware components of a computer are, such as the CPU and memory, and a little bit about what those things mean. Especially if you are planning on purchasing a computer yourself. And so, below, you can see a brief overview of the modern computer hardware architecture, otherwise known as the Von Neumann architecture.
-
-How a computer works
-
-Von Neumann Architecture
-By Kapooht (Own work) [CC BY-SA 3.0], via Wikimedia Commons
 The modern concept of a computer follows what’s known as the Von Neumann architecture. What this means is actually pretty simple at its most fundamental. There are three basic components: The computer itself, input devices, and output devices. Let’s look at all three of these in turn.
 
-THE COMPUTER
+### THE COMPUTER
 
-motherboard
-A Motherboard
+![motherboard](motherboard.png)
+**A Motherboard**
+
 John von Neumann conceived of a very simple architecture which we still use today. At its core, a computer has two main components, the Central Processing Unit (the CPU), and a Memory Unit which today we typically call RAM. A computer stores a “program” in memory (RAM), and then the CPU asks the memory unit for the first step of the program (known as an “instruction” and then executes it. It returns any result to memory and then asks for the next step. Over and over until the program ends. Each of these components can be broken further up into sub-components until we get all the way down to the most fundamental parts of the CPU, the transistors, which can be so small that more than four million of them could fit in the period at the end of this sentence. Despite all of this, the basic idea is really quite simple.
 
-INPUT/OUTPUT
+### INPUT/OUTPUT
 
-mouse and keyboard
-Common Interface Devices
+![mouse and keyboard](mouse-keyboard.jpg)<br>
+**Common Interface Devices**
+
 It is a pretty poor computer that can’t do anything with the result of some operation or computation. And so, almost all computers have some way for a user or other agent to interact with it. The modern home computer might have dozens of input/output devices attached to it. These allow the user to interact with whatever program (or programs) are running on the computer. Some are obvious, but others are a bit more subtle.
 
-Input Devices
+**Input Devices**
 
-Mouse
-Keyboard
-Scanner
-Game Controller
-Fingerprint Reader
-Touchscreen
-Microphone
-GPS antenna
-Bluetooth Chip
-Output Devices
+* Mouse
+* Keyboard
+* Scanner
+* Game Controller
+* Fingerprint Reader
+* Touchscreen
+* Microphone
+* GPS antenna
+* Bluetooth Chip
 
-Monitor
-Touchscreen
-Speakers
-Haptic feedback (rumble feature on game controller)
-Printer
-Hard drive
-Jumpdrive
+**Output Devices**
+
+* Monitor
+* Touchscreen
+* Speakers
+* Haptic feedback (rumble feature on game controller)
+* Printer
+* Hard drive
+* Jumpdrive
+
 Of course, this list could go on and on. Altogether, these devices are known as Input/Output devices, or I/O devices. Some home computers will have variations on these basic parts. For instance, a gamer might have a high-performance mouse and keyboard, or an XBox 360 controller. An artist might have a digital drawing tablet. A photographer might have a camera set up to transfer photos directly to the computer. Also, your car most likely has many small computers in it which monitor conditions in the car, such as engine temperature. That temperature sensor is an I/O device, and the fan that it it turns on when the temperature gets too high is also an I/O device. Anything that a computer uses to interact with a user or the outside world is a I/O device.
