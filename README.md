@@ -16,7 +16,7 @@ This living text will cover the basic use of computer software. Topics will incl
 * Word Processing
 * Presentation Graphics
 * Spreadsheets
-* [5 - Databases](ch5-databases/databases.md)
+* [5 - Databases](ch5-databases/5-databases.md)
 * The Internet
 * A Brief History of the Internet
 * How the Internet Works
