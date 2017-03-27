@@ -9,3 +9,4 @@
   * [2.1 - Getting Started](ch2-word-processing/2-1-getting-started.md)
 * [5 - Databases](ch5-databases/5-databases.md)
   * [5.1 - Getting Started](ch5-databases\5-1-getting-started.md)
+  * [5.2 - What is a Database?](ch5-databases\5-2-elements.md)
