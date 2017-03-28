@@ -29,3 +29,7 @@ The first step is to create a database. Open Microsoft Access and follow along.
 4. Your first table already has one field, called **ID**. Let's add a field for the customer name. Click where it says *Click to Add* and select Short Text. Name the field **CustomerName**. Note, you should not simply use the word *Name* for this field as this is a reserved word in Access and can cause strange behavior. <br /> ![tables5](images\5-3-tables-5.png)
 5. Add the rest of the fields as they are laid out in our UML diagram. As for the **NumOfPets** field, let's just leave it as a number for now and come back to it. <table><tr><td>ID</td><td>Number</td></tr><tr><td>CustomerName</td><td>Short Text</td></tr><tr><td>PhoneNumber</td><td>Short Text</td></tr><tr><td>StreetAddress</td><td>Short Text</td></tr><tr><td>City</td><td>Short Text</td></tr><tr><td>State</td><td>Short Text</td></tr><tr><td>ZIP</td><td>Short Text</td></tr><tr><td>Email</td><td>Short Text</td></tr><tr><td>NumOfPets</td><td>Number(?)</td></tr></table><br /> **Note:** It is important to note that most of our fields are, in fact, text fields. This highlights the text-centric nature of databases.
 6. Hit Ctrl-S to save the table and name it **Customer**.
+
+# Refine the table
+
+1. With the **Customer** table still open, in the **Home** tab, click the **View** button to switch to the **Design** view.<br />![tables6](images\5-3-tables-6.png)<br /> This view gives us a little more granular control over the different features and details that make up our table.
