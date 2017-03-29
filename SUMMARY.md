@@ -7,6 +7,8 @@
   * [1.3 - Productivity Software](ch1-computer-basics/productivity_software.md)
 * [2 - Word Processing](ch2-word-processing/2-word-processing.md)
   * [2.1 - Getting Started](ch2-word-processing/2-1-getting-started.md)
+* [3 - Presentation software](ch3-presentation/3-presentation.md)
+* [4 - Spreadsheets](ch4-spreadsheets\4-spreadsheets.md)
 * [5 - Databases](ch5-databases/5-databases.md)
   * [5.1 - Getting Started](ch5-databases\5-1-getting-started.md)
   * [5.2 - What is a Database?](ch5-databases\5-2-elements.md)
