@@ -45,3 +45,17 @@ Let's establish that relationship now.
 4. Ensure that you check the boxes for **Enforce Referential Integrity**, **Cascade Update Related Fields** and **Cascade Delete Related Fields**. If we delete a customer, we want to make sure they take all of their pets with them. Don't need any orphaned Pet records floating around in our nice neat database tables.
 5. Notice that the relationship line shows a 1 next to the ID of the customer and an infinity sybmol next to the Owner field of the Pet: <br />![owner->pet](images\5-4\5-owner-pet.png) <br /> This defines this relationship as a **one-to-many** relationship. That is, one owner can have many pets, but each pet can only have one owner. You could also define a **many-to-many** relationship, but it likely would not make much sense in this particular context.
 6. On your own, establish a **one-to-many** relationship between Species and Pet such that each pet can only have one species but you can still enroll as many dogs as you like.
+
+## Adding Some Pets
+
+Next, we'll populate our **Pets** table with some actual imaginary pets. This time, instead of using a .csv file, we'll take the data right out of an Excel spreadsheet.
+
+1. Download the [pets.xlsx file](res/pets.xlsx).
+1. Make sure all tables are closed. Under the **External Data** tab, in the **Export & Link** group, click **Excel**.
+2. In the dialog that opens, navigate to the file, wherever it downloaded to. Check the radio box to append the the records to an existing table and then select the **Pet** table from the dropdown. Click **OK**.
+3. If it warns you to close the current table, say **OK**.
+4. You will see a mockup of the table in the dialog. Hit **Next**.
+5. Ensure that you are importing to the correct table. Click **Finish**.
+6. You don't need to save your import steps. Now, open the **Pet** table and observe the results:<br />![pets done](images\5-4\5-3-pets_done.png)
+
+That's it for now. We will add more tables later, but this is enough to do some simple **queries** and searches. Save your tables, close them, and don't forget to **Compact & Repair**.
