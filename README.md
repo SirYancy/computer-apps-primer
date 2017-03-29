@@ -24,3 +24,6 @@ This living text will cover the basic use of computer software. Topics will incl
 * Alternatives to Microsoft Office
 * History of Computing
 * Digital Ethics
+
+
+
