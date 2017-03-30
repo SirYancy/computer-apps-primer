@@ -4,8 +4,8 @@ Word processing software’s purpose is to allow the user to create professional
 
 ## Word Basics
 
-1. [**Getting Started**](http://itech.erickuha.com/word-processing/getting-started/)
-2. [**Creating and Opening Documents**](http://itech.erickuha.com/word-processing/creating-opening-documents/)
+1. [**Getting Started**](2-1-getting-started.md)
+2. [**Creating and Opening Documents**](2-1_creating_opening_documents.md)
 3. [**Saving Documents**](http://itech.erickuha.com/word-processing/saving-a-document/)
 
 ## Text
@@ -28,6 +28,3 @@ Word processing software’s purpose is to allow the user to create professional
 1. [**Block Style Letter**](http://itech.erickuha.com/word-processing/project-1-block-style-letter/)
 2. [**Flyer**](http://itech.erickuha.com/word-processing/project-2-flyer/)
 3. [**Resume**](http://itech.erickuha.com/word-processing/project-3-resume/)
-
-
-
