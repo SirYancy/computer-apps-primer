@@ -12,10 +12,9 @@ This living text will cover the basic use of computer software. Topics will incl
   * [1.1 - The Operating System](ch1-computer-basics/operating_system.md)
   * [1.2 - The File System](ch1-computer-basics/file_system.md)
   * [1.3 - Productivity Software](ch1-computer-basics/productivity_software.md)
-* What is productivity software?
-* Word Processing
-* Presentation Graphics
-* Spreadsheets
+* [2 - Word Processing](ch2-word-processing/2-word-processing.md)
+* [3 - Presentation Graphics](ch3-presentation/3-presentation.md)
+* [4 - Spreadsheets](ch4-spreadsheets/4-spreadsheets.md)
 * [5 - Databases](ch5-databases/5-databases.md)
 * The Internet
 * A Brief History of the Internet
@@ -24,6 +23,3 @@ This living text will cover the basic use of computer software. Topics will incl
 * Alternatives to Microsoft Office
 * History of Computing
 * Digital Ethics
-
-
-
