@@ -1,53 +1,41 @@
-<section>
-<h1>The Insertion Point</h1>
-<a href="http://itech.erickuha.com/wp-content/uploads/2016/12/w1_insertion_point.png"><img src="http://itech.erickuha.com/wp-content/uploads/2016/12/w1_insertion_point.png" alt="w1_insertion_point" width="346" height="374" class="aligncenter size-full wp-image-375" /></a>
-<p>
-When you first open a blank word document, one of the first things that you will notice is a blinking vertical line. This is called the <strong>insertion point</strong>. If you type on the keyboard, this is where new text will appear. The same goes for images, word art, and other special effects.  Anything you insert into the document will appear at the insertion point.
-</p>
+# Basic Text Editing
 
-<h1>Moving the Insertion Point</h1>
+## The Insertion Point
+![insertion point](images/w1_insertion_point.png)
 
-<p>
-You can use the <strong>arrow keys</strong> to move the insertion point up, down, left, and right.  But you can also augment this functionality by using the <strong>ctrl-key</strong>. When you hold down the ctrl-key, and press left or right, the insertion point moves forward or backward by one whole word (to the next whitespace). Likewise, by holding the ctrl-key while pressing up or down, the insertion point will jump entire paragraphs.  Learning keyboard shortcuts and coming to think of them as second nature can lead to a smoother, more effective workflow as your hands will have to leave the keyboard to use the mouse less often
-</p>
-<p>
+When you first open a blank word document, one of the first things that you will notice is a blinking vertical line. This is called the **insertion point**. If you type on the keyboard, this is where new text will appear. The same goes for images, word art, and other special effects.  Anything you insert into the document will appear at the insertion point.
+
+## Moving the Insertion Point
+
+You can use the <strong>arrow keys</strong> to move the insertion point up, down, left, and right.  But you can also augment this functionality by using the <strong>ctrl-key</strong>. When you hold down the ctrl-key, and press left or right, the insertion point moves forward or backward by one whole word (to the next whitespace). Likewise, by holding the ctrl-key while pressing up or down, the insertion point will jump entire paragraphs.  Learning keyboard shortcuts and coming to think of them as second nature can lead to a smoother, more effective workflow as your hands will have to leave the keyboard to use the mouse less often.
+
 Also worth noting are some of the other navigation keys on your keyboard.  Locate the <strong>Home</strong> and <strong>End</strong> keys. These will move the insertion point directly to the beginning or end of its current line, respectively. Augmenting them with the <strong>ctrl-key</strong> will move the insertion point to the very beginning or the very end of the <em>document</em>. This can occasionally be fairly handy.
-</p>
-</section>
-<section>
-<h1>Selecting Text</h1>
-<p>
-Selecting text is a fundamental operation in any text editor and there are several ways of doing it. Which ones you use will depend on how your workflow develops as you get better with the software.
-</p>
-<section>
-<a href="http://itech.erickuha.com/wp-content/uploads/2016/12/w1_selecting_text.png"><img src="http://itech.erickuha.com/wp-content/uploads/2016/12/w1_selecting_text.png" alt="w1_selecting_text" width="660" height="334" class="aligncenter size-full wp-image-377" /></a>
-<h3>Clicking and Dragging</h3>
-<p>
-The most obvious is to use the mouse pointer to click and drag to select text. Click at one end of the text you want to select and drag to the other.  Indeed, this method works in almost all software that has text.  Try it here in this web browser.
-</p>
-</section>
-<section>
-<h3>Double-Clicking</h3>
-<p>
-Point at a word in your document and double-click the left mouse button. The word becomes highlighted. If you have non-printing characters on, you should notice that it also selects the space <em>after</em> the word. This is a potentially useful thing to know when you're editing a document. Click on an empty area of your document and then go back to that word and triple-click it. It will select the entire paragraph from first word to the carriage return symbol (&para;) at the end.
-</p>
-</section>
 
-<section>
-<h3>The Keyboard Method</h3>
-<p>
-Place the <strong>insertion point</strong> at the beginning of a section of text that you would like select.  Hold down the <strong>shift key</strong> on your keyboard and tap the left or right <strong>arrow keys</strong> on the keyboard and watch as the insertion point moves, it selects text from the point where the insertion point started.
-</p>
-<p>
-These keyboard shortcuts can be further augmented by using the <strong>ctrl-key</strong>.  Just as the ctrl-key can be used to move the insertion key by whole words or paragraphs, if you hold <strong>ctrl </strong>and <strong>shift </strong>keys, you can select entire words and paragraphs with ease.
-</p>
-<p>
+## Selecting Text
+
+Selecting text is a fundamental operation in any text editor and there are several ways of doing it. Which ones you use will depend on how your workflow develops as you get better with the software.
+
+![selecting](w1_selecting_text.png)
+
+<dl>
+<dt>Clicking and Dragging</dt>
+<dd>The most obvious is to use the mouse pointer to click and drag to select text. Click at one end of the text you want to select and drag to the other.  Indeed, this method works in almost all software that has text.  Try it here in this web browser.<dd>
+
+<dt>Double-Clicking</dt>
+<dd>Point at a word in your document and double-click the left mouse button. The word becomes highlighted. If you have non-printing characters on, you should notice that it also selects the space <em>after</em> the word. This is a potentially useful thing to know when you're editing a document. Click on an empty area of your document and then go back to that word and triple-click it. It will select the entire paragraph from first word to the carriage return symbol (&para;) at the end.</dd>
+
+<dt>The Keyboard Method</dt>
+<dd>Place the <strong>insertion point</strong> at the beginning of a section of text that you would like select.  Hold down the <strong>shift key</strong> on your keyboard and tap the left or right <strong>arrow keys</strong> on the keyboard and watch as the insertion point moves, it selects text from the point where the insertion point started.</dd>
+</dl>
+
+## Augmenting Keyboard Shortcuts
+
+Many keyboard shortcuts can be further augmented by using the <strong>ctrl-key</strong>.  Just as the ctrl-key can be used to move the insertion point by whole words or paragraphs, if you hold <strong>ctrl </strong>and <strong>shift </strong>keys, you can select entire words and paragraphs with ease.
+
 By holding the <strong>shift-key</strong> and pressing the <strong>End</strong> key, it will select all text from the insertion point to the end of the line. Likewise, using the <strong>Home</strong> key in this way will select all of the text back to the beginning of the line.
-</p>
-<p>
+
 Another reasonably useful keyboard shortcut is <strong>Ctrl-a</strong>, which will select all of the contents of the file, all text, images, diagrams, and other content. This can be useful for mass-formatting or styling your text.
-</p>
-<p>
+
 Lastly, if you hold the <strong>ctrl-key</strong> while clicking on a word, it will select the entire sentence that contains that word.  <strong>Note:</strong> this works only in Microsoft Word that I am aware.  In other word processor apps, this might have other behavior.  For instance, in <strong>LibreOffice</strong>, ctrl-clicking allows you to select non-continuous text. Like so:
 </p>
 <a href="http://itech.erickuha.com/wp-content/uploads/2016/12/w1_libreoffice_ctrl_click.png"><img src="http://itech.erickuha.com/wp-content/uploads/2016/12/w1_libreoffice_ctrl_click.png" alt="w1_libreoffice_ctrl_click" width="397" height="114" class="aligncenter size-full wp-image-376" /></a>
