@@ -1,7 +1,7 @@
 # Basic Text Editing
 
 ## The Insertion Point
-![insertion point](images/w1_insertion_point.png)
+![insertion point](images/text/w1_insertion_point.png)
 
 When you first open a blank word document, one of the first things that you will notice is a blinking vertical line. This is called the **insertion point**. If you type on the keyboard, this is where new text will appear. The same goes for images, word art, and other special effects.  Anything you insert into the document will appear at the insertion point.
 
@@ -15,7 +15,7 @@ Also worth noting are some of the other navigation keys on your keyboard.  Locat
 
 Selecting text is a fundamental operation in any text editor and there are several ways of doing it. Which ones you use will depend on how your workflow develops as you get better with the software.
 
-![selecting](w1_selecting_text.png)
+![selecting](images/text/w1_selecting_text.png)
 
 <dl>
 <dt>Clicking and Dragging</dt>
@@ -36,81 +36,53 @@ By holding the <strong>shift-key</strong> and pressing the <strong>End</strong> 
 
 Another reasonably useful keyboard shortcut is <strong>Ctrl-a</strong>, which will select all of the contents of the file, all text, images, diagrams, and other content. This can be useful for mass-formatting or styling your text.
 
-Lastly, if you hold the <strong>ctrl-key</strong> while clicking on a word, it will select the entire sentence that contains that word.  <strong>Note:</strong> this works only in Microsoft Word that I am aware.  In other word processor apps, this might have other behavior.  For instance, in <strong>LibreOffice</strong>, ctrl-clicking allows you to select non-continuous text. Like so:
-</p>
-<a href="http://itech.erickuha.com/wp-content/uploads/2016/12/w1_libreoffice_ctrl_click.png"><img src="http://itech.erickuha.com/wp-content/uploads/2016/12/w1_libreoffice_ctrl_click.png" alt="w1_libreoffice_ctrl_click" width="397" height="114" class="aligncenter size-full wp-image-376" /></a>
-</section>
+Lastly, if you hold the <strong>ctrl-key</strong> while clicking on a word, it will select the entire sentence that contains that word.
 
-</section>
+## Copying and Pasting
 
-<section>
-<h1>Copying and Pasting</h1>
-<p>
-Modern word processor software almost always has some useful mechanism for copying, pasting, and moving text.
-</p>
-<section>
-<h3>To Copy and Paste</h3>
-<ol>
-<li>Select the text you wish to copy.</li>
-<li>In the <strong>Home</strong> tab, in the <strong>Clipboard</strong> group, click the <strong>Copy</strong> button. The keyboard shortcut for this operation is <strong>Ctrl-c</strong>.</li>
-<li>Move the insertion point to where you want to put the text, and press the <strong>Paste</strong> button, or use the keyboard shortcut <strong>Ctrl-v</strong></li>
-</ol>
-</section>
-<section>
-<h3>Moving Text</h3>
-<ol>
-<li>Select the text you wish to move.</li>
-<li>In the <strong>Home</strong> tab, click the <strong>Cut</strong>button or use the <strong>Ctrl-x</strong> keyboard command.</li>
-<li>Again, move the insertion point to the new location and press <strong>Paste</strong> button or hit <strong>Ctrl-v</strong></li>
-</ol>
-</section>
-<section>
-<h3>Click and Drag Test</h3>
-<p>
+Modern word processor software almost always has some useful mechanism for copying, pasting, and moving text. Not only that, but every operating system you're even remotely likely to use will integrate these features with the **system clipboard**. That is, if I copy some text from a word document, I can paste it into an Excel spreadsheet, a web browser, or just about any other app that accepts text. It is so ubiquitous that it's more noteworthy when it doesn't work or an application does not support it.
+
+### To Copy and Paste
+
+1. Select the text you wish to copy.
+1. In the <strong>Home</strong> tab, in the <strong>Clipboard</strong> group, click the <strong>Copy</strong> button. The keyboard shortcut for this operation is <strong>Ctrl-c</strong>.
+1. Move the insertion point to where you want to put the text, and press the <strong>Paste</strong> button, or use the keyboard shortcut <strong>Ctrl-v</strong>
+
+### Moving Text
+
+1. Select the text you wish to move.
+1. In the <strong>Home</strong> tab, click the <strong>Cut</strong>button or use the <strong>Ctrl-x</strong> keyboard command.
+1. Again, move the insertion point to the new location and press <strong>Paste</strong> button or hit <strong>Ctrl-v</strong>
+
+### Click and Drag Test
+
 Microsoft Word has a fairly intelligent feature for moving text with just the mouse. All you do is select the text you wish to move, and move the pointer over any part of the selected text, and then drag the mouse. The insertion point will follow the pointer so you can see exactly where the text will be placed. Release the mouse and the text will appear in its new location.
-</p>
-</section>
-</section>
 
-<section>
-<h1>Undo and Redo/Repeat</h1>
-<p>
-<p>
+## Undo and Redo/Repeat
+
 We all make mistakes. It happens all too often that you're trying to insert an image into a Word document and you have it almost positioned properly and then you move it just a little bit more and suddenly your entire document is thrown out of whack.  This is partly due to the way images are represented in a Word document. The software has gotten a lot better over the years when it comes to handling images, but occasionally, a tiny movement can still disrupt your entire document. To fix this, you can <strong>Undo</strong> the last action that you did.
-</p>
-<section>
-<h3>To Undo Mistakes</h3>
-<ol>
-<li>Make a mistake.</li>
-<li>In the Quick Access toolbar, click the <strong>Undo</strong>.</li>
-<li>Heave a sigh of relief.</li>
-<li>The keyboard shortcut for Undo -- and I highly recommend committing this one to memory -- is <strong>Ctrl-z</strong></li>
-</ol>
-</section>
-<section>
-<h3>Explanation</h3>
-<p>
-Word keeps a record of all of the changes you've made to the document since you opened it. So, if you press the undo button multiple times, it will undo all of those actions, moving backward, until it's back to the way it was when you first opened the file. The Undo button can save you from a lot of frustration and gives you an easy way to try different techniques or formatting while easily being able to revert your experiments.
-</p>
-</section>
-<section>
-<h3>The Redo/Repeat Button</h3>
-<p>
-The <strong>Redo/Repeat </strong>button has different functions depending on context. If you have just used an <strong>Undo</strong> action, the <strong>Redo </strong>button will do just that.  It will redo the action you just undid.
-</p>
-<p>
-The Redo button can also allow you to <strong>Repeat</strong> certain actions as well.
-</p>
-<ol>
-<li>Type some text. More than one word</li>
-<li>Select one of the words.</li>
-<li>Click the bold button. (It's in the Font group of the Home tab). That word is now darker and stronger than the rest of the text.</li>
-<li>Select another word elsewhere in the text.</li>
-<li>Click the <strong>Repeat/Redo </strong>button. The selected text is now also bold.</li>
-</ol>
-<p>
-The hotkey for the Redo/Repeat button is <strong>Ctrl-y</strong>.
-</p>
-</section>
 
-</section>
+### To Undo Mistakes
+
+1. Make a mistake.
+1. In the Quick Access toolbar, click the <strong>Undo</strong>.
+1. Heave a sigh of relief.
+1. The keyboard shortcut for Undo -- and I highly recommend committing this one to memory -- is <strong>Ctrl-z</strong>
+
+### Explanation
+
+Word keeps a record of all of the changes you've made to the document since you opened it. So, if you press the undo button multiple times, it will undo all of those actions, moving backward, until it's back to the way it was when you first opened the file. The Undo button can save you from a lot of frustration and gives you an easy way to try different techniques or formatting while easily being able to revert your experiments.
+
+#### The Redo/Repeat Button
+
+The <strong>Redo/Repeat </strong>button has different functions depending on context. If you have just used an <strong>Undo</strong> action, the <strong>Redo </strong>button will do just that.  It will redo the action you just undid.
+
+The Redo button can also allow you to <strong>Repeat</strong> certain actions as well.
+
+1. Type some text. More than one word
+1. Select one of the words.
+1. Click the bold button. (It's in the Font group of the Home tab). That word is now darker and stronger than the rest of the text.
+1. Select another word elsewhere in the text.
+1. Click the <strong>Repeat/Redo </strong>button. The selected text is now also bold.
+
+The hotkey for the Redo/Repeat button is <strong>Ctrl-y</strong>.

@@ -9,7 +9,7 @@ Word processing software’s purpose is to allow the user to create professional
 
 ## Text
 
-1. [**Basic Text Editing**](http://itech.erickuha.com/word-processing/basic-text-editing/)
+1. [**Basic Text Editing**](2-2_basic_text_editing.md)
 2. [**Formatting**](http://itech.erickuha.com/word-processing/basic-formatting/)
 3. [**Spacing**](http://itech.erickuha.com/word-processing/paragraph-spacing/)
 4. [**More Formatting**](http://itech.erickuha.com/word-processing/orientation-shading-borders/)

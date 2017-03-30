@@ -35,5 +35,5 @@ If you want to continue working with a document that you had previously saved, r
 
 
 <div class="alert alert-info">
-Note: You can open also open a file by navigating to it through the Windows Explorer. Locate the folder and double click the document's icon and Windows will automatically attempt to find the best app for that file. For a Word document, it will almost certainly open Microsoft Word.
+<strong>Note:</strong> You can open also open a file by navigating to it through the Windows Explorer. Locate the folder and double click the document's icon and Windows will automatically attempt to find the best app for that file. For a Word document, it will almost certainly open Microsoft Word.
 </div>
