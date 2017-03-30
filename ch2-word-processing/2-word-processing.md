@@ -5,8 +5,7 @@ Word processing software’s purpose is to allow the user to create professional
 ## Word Basics
 
 1. [**Getting Started**](2-1-getting-started.md)
-2. [**Creating and Opening Documents**](2-1_creating_opening_documents.md)
-3. [**Saving Documents**](http://itech.erickuha.com/word-processing/saving-a-document/)
+2. [**Creating, Opening, and Saving Documents**](2-1_creating_opening_documents.md)
 
 ## Text
 
