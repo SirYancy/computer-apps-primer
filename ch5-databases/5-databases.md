@@ -17,4 +17,3 @@ For this course, we will focus on [Microsoft Access](https://products.office.com
 ## Queries
 
 1. [**Queries 1**](5-5-query-1.md)
-2.
