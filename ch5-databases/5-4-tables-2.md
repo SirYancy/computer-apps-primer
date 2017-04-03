@@ -54,7 +54,7 @@ Let's establish that relationship now.
 
 Next, we'll populate our **Pets** table with some actual imaginary pets. This time, instead of using a .csv file, we'll take the data right out of an Excel spreadsheet.
 
-1. Download the [pets.xlsx file](res/pets.xlsx) (Right-click and click _Save link as..._). <a href="res/pets.xlsx">pets</a>
+1. Download the [pets.xlsx file](res/pets.xlsx) (Right-click and click _Save link as..._).
 1. Make sure all tables are closed. Under the **External Data** tab, in the **Export & Link** group, click **Excel**.
 2. In the dialog that opens, navigate to the file, wherever it downloaded to. Check the radio box to append the the records to an existing table and then select the **Pet** table from the dropdown. Click **OK**.
 3. If it warns you to close the current table, say **OK**.
