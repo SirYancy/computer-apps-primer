@@ -4,6 +4,8 @@ In this tutorial, we will build two more tables to round out the main part of ou
 
 So open up your copy of _vet.accdb_. If you haven't already, complete the [previous tutorial](5-3-tables-1.md).
 
+If your database file has errors or problems, you can also download an in-progress version for this tutorial [here](res/vet2_start.accdb).
+
 Now, let's refresh our memories about our database design:
 
 ![table design](images/5-3-tables-4.png)
@@ -58,4 +60,4 @@ Next, we'll populate our **Pets** table with some actual imaginary pets. This ti
 5. Ensure that you are importing to the correct table. Click **Finish**.
 6. You don't need to save your import steps. Now, open the **Pet** table and observe the results:<br />![pets done](images/5-4/5-3-pets_done.png)
 
-That's it for now. We will add more tables later, but this is enough to do some simple **queries** and searches. Save your tables, close them, and don't forget to **Compact & Repair**.
+That's it for now. We will add more tables later, but this is enough to do some simple **queries** and searches. Save your tables, close them, and don't forget to **Compact & Repair**. And then upload it to the class portal.
