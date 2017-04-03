@@ -8,5 +8,13 @@ For this course, we will focus on [Microsoft Access](https://products.office.com
 
 1. [**Getting Started**](5-1-getting-started.md)
 2. [**What is a Database?**](5-2-elements.md)
+
+## Tables
+
 3. [**Tables 1**](5-3-tables-1.md)
 4. [**Tables 2**](5-4-tables-2.md)
+
+## Queries
+
+1. [**Queries 1**](5-5-query-1.md)
+2.
