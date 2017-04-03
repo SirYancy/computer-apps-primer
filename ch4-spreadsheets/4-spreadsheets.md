@@ -3,14 +3,18 @@
 A spreadsheet is a computer application that is used to organize, analyze, and keep track of tabular data. What does that mean? Well, a lot actually. This is the single most useful piece of software in any productivity suite, and it is easily the most vital to anyone who wants to take their computer-use skills to the next level.
 ## Basics
 
+1. [Basic Ideas](http://itech.erickuha.com/spreadsheets/basics/)
 1. [Getting Started](http://itech.erickuha.com/spreadsheets/getting-started/)
 1. [Creating, Opening, Saving Workbooks](http://itech.erickuha.com/spreadsheets/creating-opening-workbooks/)
 
+## Tutorials
+
+1. [TUTORIAL 1 - Formulas](formulas_tutorial.md)
+
 ## Working with Cells
 1. [Workbooks and Workseets](http://itech.erickuha.com/spreadsheets/workbooks-and-worksheets/)
-1. [Basic Ideas](http://itech.erickuha.com/spreadsheets/basics/)
 1. [Rows and Columns](http://itech.erickuha.com/spreadsheets/rows-and-columns/)
-1. [Baic Formatting](http://itech.erickuha.com/spreadsheets/basic-formatting/)
+1. [Basic Formatting](http://itech.erickuha.com/spreadsheets/basic-formatting/)
 1. [Number Formatting](http://itech.erickuha.com/spreadsheets/number-formats/)
 
 ## Formulas and Functions
