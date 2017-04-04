@@ -8,7 +8,8 @@ A spreadsheet is a computer application that is used to organize, analyze, and k
 * [Creating, Opening, Saving Workbooks](http://itech.erickuha.com/spreadsheets/creating-opening-workbooks/)
 
 ## Tutorials
-* [TUTORIAL 1 - Formulas](formulas_tutorial.md)
+* [TUTORIAL 1 - Formulas 1](4-1-formulas_1.md)
+* [TUTORIAL 2 - Formulas 2](4-2-formulas_2.md)
 
 ## Working with Cells
 * [Workbooks and Workseets](http://itech.erickuha.com/spreadsheets/workbooks-and-worksheets/)
