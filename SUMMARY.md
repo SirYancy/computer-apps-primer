@@ -10,7 +10,7 @@
   * [2.2 - Creating Word Documents](ch2-word-processing\2-1_creating_opening_documents.md)
 * [3 - Presentation software](ch3-presentation/3-presentation.md)
 * [4 - Spreadsheets](ch4-spreadsheets/4-spreadsheets.md)
-  * [TUTORIAL 1 - Formulas](ch4-spreadsheets/4-1-formulas_1.md)
+  * [TUTORIAL 1 - Formulas 1](ch4-spreadsheets/4-1-formulas_1.md)
   * [TUTORIAL 2 - Formulas 2](ch4-spreadsheets/4-2-formulas_2.md)
 * [5 - Databases](ch5-databases/5-databases.md)
   * [5.1 - Getting Started](ch5-databases/5-1-getting-started.md)
