@@ -1,4 +1,4 @@
-# Formulas Tutorial
+# TUTORIAL 1 - Formulas Tutorial
 
 Here is a brief tutorial to walk you through some of the ideas covered in the [previous section](http://itech.erickuha.com/spreadsheets/formulas/). In this scenario, your co-worker brings you a budget spreadsheet showing the meat quantities for a company barbecue. Only problem is, your co-worker does not know how calculate the totals in the spreadsheet. That's where you come in.
 
