@@ -59,10 +59,14 @@ Close all active tables and queries and let's give it a shot.
     10. Pet -> **birthday**
     11. Species -> **SpeciesName** <br /> ![8][8]
 12. Next, we will want to tweak our filter criteria and our sort ordering. Let's sort the query alphabetically by customer name. So under CustomerName, change the sort to **Ascending**.
-13. Now, under Birthday, we want to filter out all of the pets whose birthdays are in April. This is tricky and requires some up-front knowledge.
+13. Now, under Birthday, we want to filter out all of the pets whose birthdays are in April. This is tricky and requires some up-front knowledge. To see a list of examples of query criteria, check out [this article][query criteria]. That said, for this one, under the **Criteria** line in the **Birthday** field of our query, enter the following formula: `DatePart("m",[Birthday])=4`. Save the query as `AprilBirthdayQuery`. The final query will look like this: <br /> ![9][9]
+1. Hit **Enter**, and then **Run** the query. <br /> ![10][10]
+
+Save everything. Compact and repair the database. Upload the resulting file to the [portal].
 
 <!-- Files -->
 [start]: res/vet3_start.accdb
+[portal]: http://my.lltc.edu
 
 <!-- Images -->
 [1]: images/5-5/1.png
@@ -73,3 +77,9 @@ Close all active tables and queries and let's give it a shot.
 [6]: images/5-5/6.png
 [7]: images/5-5/7.png
 [8]: images/5-5/8.png
+[9]: images/5-5/9.png
+[10]: images/5-5/10.png
+
+
+<!-- Links -->
+[query criteria]: https://support.office.com/en-ie/article/Examples-of-query-criteria-3197228c-8684-4552-ac03-aba746fb29d8
