@@ -1,8 +1,6 @@
 # Database Tools and Queries
 
-A database is only as good as its tools for organizing, searching, and sorting its tables. In 1876, a man named Melvil Dewey built a system for organizing books and cataloguing them in a collection with index cards and codes. Today, this system is called the _Dewey Decimal System_ and it is the basis for all library databases today, digital or otherwise. The reason the Dewey Decimal System was so popular was how easy it was to implement and reference. As long as a librarian keeps books where they belong and stay on top of organization, a library is the ultimate research tool. This remains true today.
-
-For the following tutorials, we will add two more tables, and then build a series of queries for searching and sorting the database. First, let's re=think our table relationships. We need to have a system for keeping track of patient visits and billing for those visits. So we'll put together a table for visits and a table for invoices. This is complicated because the relationship between pets/patients and visits will be a one-to-many relationship. However, there will only ever be one invoice per visit, so that will be a one-to-one relationship.  Here's our new class relationship diagram:
+It's time to ramp up the complexity of our database a little bit. There is some much needed functionality that it is sorely lacking. If we are running a veterinary clinic, we are going to need some way of keeping track of all two more crucial things: vet visits and invoices for billing.
 
 ![diagram][1]
 
@@ -26,8 +24,8 @@ Second, create a table called **Invoice** with the following desgin in your data
 |------------|------------|-------------|-----------------------------------------|
 | ID         | AutoNumber | Primary Key |                                         |
 | VisitID    | Number     | Foreign Key | Caption: Visit ID                       |
+| Amount     | Currency   |             | Format: Currency, Decimal Places: 2     |
 | DueDate    | Date       |             | Caption Due Date, Format: Short Date    |
-| Overdue    | Yes/No     |             | Caption: Is Overdue?                    |
 | Paid       | Yes/No     |             | Caption: Is Paid?                       |
 
 Next, create appropriate relationships. **Hint:** Anything that was labeled as a Foreign Key needs to have a relationship.  After that, let's populate them with some data.
@@ -43,4 +41,4 @@ All of the data can be found in the [pets.xlsx file][pets] (Right-click and pres
 [pets]: res/pets.xlsx
 
 <!-- Images -->
-[1]: images/5-5/5-5-diagram.png
+[1]: images/5-5/1.png
