@@ -28,17 +28,23 @@ Second, create a table called **Invoice** with the following desgin in your data
 | DueDate    | Date       |             | Caption Due Date, Format: Short Date    |
 | Paid       | Yes/No     |             | Caption: Is Paid?                       |
 
-Next, create appropriate relationships. **Hint:** Anything that was labeled as a Foreign Key needs to have a relationship.  After that, let's populate them with some data.
+Next, create appropriate relationships. **Do not forget to do this!**
+
+<div class="alert alert-info"><strong>Hint:</strong> Anything that was labeled as a Foreign Key needs to have a relationship.  After that, let's populate them with some data.</div>
 
 ## Import Data
 
-All of the data can be found in the [pets.xlsx file][pets] (Right-click and press **Save target as...**). Run through the steps (as seen in the [last tutorial](5-4-tables-2.md)) to bring the data from an Excel spreadsheet into these two new tables. There are about 300 records for vet visits and a corresponding invoice record for each visit.
+All of the data can be found in the [pets.xlsx file][pets] (Right-click and press **Save target as...**). There are about 300 records for vet visits and a corresponding invoice record for each visit. If you need a refresher, look over the steps (as seen in the [last tutorial](5-4-tables-2.md)) to bring the data from an Excel spreadsheet into these two new tables. There are about 300 records for vet visits and a corresponding invoice record for each visit. The only thing you really want to look out for is to make sure you are appending to the correct table and taking the data from the correct sheet.
 
-## Create a Query
+# Build more Queries
+
+Once you have the two new tables populated, let's build a couple more queries. Let's say we want to know which invoices are past due.
+
+
 
 <!-- Files -->
 [start]: vet3_start.accdb
 [pets]: res/pets.xlsx
 
 <!-- Images -->
-[1]: images/5-5/1.png
+[1]: images/5-6/1.png
