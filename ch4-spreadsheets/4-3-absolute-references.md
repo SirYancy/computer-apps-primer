@@ -16,8 +16,8 @@ We are going to build a "times table". You remember these from elementary school
 10. Of course, if you drag the fill hand down now, you run into a problem. The column in the second operand sayted in the first column, exactly as we wanted it tod, but the _row_ in the first operand did not. ![7]
 11. To fix this, we need to **lock in the row number of the first operand**. So erase everything and again, in cell B4, enter the formula `=B$3*$A4`. Now, drag the fill handle out and see the resulting, perfectly accurate, 10 by 10 times table. <br>![8]
 
-<div class="alert alert-info" markdown="1">
-    **Note:**  At this point, you could extend the times table out as far as you like and Excel would automatically fill it in, quickly and accurately.
+<div class="alert alert-info">
+    <strong>Note:</strong> At this point, you could extend the times table out as far as you like and Excel would automatically fill it in, quickly and accurately.
 </div>
 
 ## Conclusion

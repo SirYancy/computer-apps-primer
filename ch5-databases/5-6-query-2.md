@@ -30,7 +30,7 @@ Second, create a table called **Invoice** with the following desgin in your data
 
 Next, create appropriate relationships. You're on your own for this, but if you get stuck, just look back through the last tutorial and give it a little thought and you should see what you need to do. **Do not forget to do this!**
 
-<div class="alert alert-info" markdown="1">**Hint:** Anything that was labeled as a Foreign Key needs to have a relationship.  After that, let's populate them with some data.</div>
+<div class="alert alert-info"><strong>Hint:</strong> Anything that was labeled as a Foreign Key needs to have a relationship.  After that, let's populate them with some data.</div>
 
 ## Import Data
 
