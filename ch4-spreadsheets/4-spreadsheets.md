@@ -10,6 +10,7 @@ A spreadsheet is a computer application that is used to organize, analyze, and k
 ## Tutorials
 * [TUTORIAL 1 - Formulas 1](4-1-formulas_1.md)
 * [TUTORIAL 2 - Formulas 2](4-2-formulas_2.md)
+* [TUTORIAL 3 - Absolute References](4-3-absolute-references.md)
 
 ## Working with Cells
 * [Workbooks and Workseets](http://itech.erickuha.com/spreadsheets/workbooks-and-worksheets/)
