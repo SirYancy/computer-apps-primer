@@ -38,12 +38,12 @@ All of the data can be found in the [pets.xlsx file][pets] (Right-click and pres
 
 # Build more Queries
 
-Once you have the two new tables populated, let's build a couple more queries. Let's say we want to know which invoices are past due. 
+Once you have the two new tables populated, let's build a couple more queries. Let's say we want to know which invoices are past due.
 
 
 
 <!-- Files -->
-[start]: vet3_start.accdb
+[start]: res/vet3_start.accdb
 [pets]: res/pets.xlsx
 
 <!-- Images -->
