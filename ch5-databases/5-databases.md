@@ -17,3 +17,8 @@ For this course, we will focus on [Microsoft Access](https://products.office.com
 ## Queries
 
 1. [**Queries 1**](5-5-query-1.md)
+1. [**Queries 2**](5-6-query-2.md)
+
+## Forms
+
+1. [**Forms 1**](5-7-form-1.md)
