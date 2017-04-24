@@ -1,5 +1,7 @@
 # Project - Build a Relational Database with Microsoft Access
 
+<a title="By Micrososft [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AMicrosoft_Access_2013_logo.svg"><img width="64" alt="Microsoft Access 2013 logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Microsoft_Access_2013_logo.svg/64px-Microsoft_Access_2013_logo.svg.png" style="float:right;"/></a>
+
 In order to really "get" relational databases and the tools that you can use to interact with them, you really do need to build your own. To that end, you will build a database from scratch and then populate it with your own data \(real or fictional\).  This project will be divided into three parts.
 
 ## Part 1 - Build your tables
