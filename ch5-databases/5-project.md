@@ -21,7 +21,7 @@ Here you will build a database with at least three tables and two relationships 
   * Gift Idea table - ideas associated with each person
   * Shop table - places where you might buy those gifts
 
-Add at least 5 records to each table.
+Add at least **5 records** to each table.
 
 Complete **Part 1** and submit before moving on to **Part 2**
 
