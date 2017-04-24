@@ -23,9 +23,10 @@ For this course, we will focus on [Microsoft Access](https://products.office.com
 
 1. [**Forms 1**](5-7-form-1.md)
 
-# Reports
+## Reports
 
-1. **Reports 1**
+1. [**Reports 1**](5-8-report-1.md)
 
+## Projects
 
-
+1. [**Database Project - Part 1**](5-project.md)
