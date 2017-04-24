@@ -27,4 +27,13 @@ Complete **Part 1** and submit before moving on to **Part 2**
 
 ## Part 2 - Build Queries
 
-.... Under Construction ....
+No database is even slightly useful without a couple of queries. The guidance I can offer here is somewhat limited as you may have built any kind of database that one can think of. So, some general advice:
+
+* When brainstorming queries, think about the sorts of things you might want to know about your database.
+* You can query any table you like. Even a one-table query might yield interesting results if it filtered the table creatively. For example, query your Christmas List for all for all of the gifts that can be bought on Amazon.
+* At least **one query** must pull data from **two or more tables**.
+* You must create at least **3 queries**.
+
+Come see me or email me if you have any questions at all.
+
+Complete **Part 2** and submit before moving on to **Part 3**
