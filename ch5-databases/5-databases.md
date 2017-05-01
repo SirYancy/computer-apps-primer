@@ -1,4 +1,4 @@
-# Databases
+* # Databases
 
 A database is a collection of data. Good database software allows the user to add data, access it, and analyze that data and will have many built-in tools to make this quick and easy. They are perhaps the single most important piece of software that a computer possesses and most people are completely unaware of them.
 
@@ -6,30 +6,30 @@ For this course, we will focus on [Microsoft Access](https://products.office.com
 
 ## Database Basics
 
-1. [**Getting Started**](5-1-getting-started.md)
-2. [**What is a Database?**](5-2-elements.md)
+* [**Getting Started**](5-1-getting-started.md)
+* [**What is a Database?**](5-2-elements.md)
 
 ## Tables
 
-1. [**Tables 1**](5-3-tables-1.md)
-2. [**Tables 2**](5-4-tables-2.md)
+* [**Tables 1**](5-3-tables-1.md)
+* [**Tables 2**](5-4-tables-2.md)
 
 ## Queries
 
-1. [**Queries 1**](5-5-query-1.md)
-2. [**Queries 2**](5-6-query-2.md)
+* [**Queries 1**](5-5-query-1.md)
+* [**Queries 2**](5-6-query-2.md)
 
 ## Forms
 
-1. [**Forms 1**](5-7-form-1.md)
+* [**Forms 1**](5-7-form-1.md)
 
 ## Reports
 
-1. [**Reports 1**](5-8-report-1.md)
+* [**Reports 1**](5-8-report-1.md)
 
 ## Projects
 
-1. [**Database Project**](5-project.md)
+* [**Database Project**](5-project.md)
 
 
 
