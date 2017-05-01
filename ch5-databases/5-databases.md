@@ -1,4 +1,4 @@
-* # Databases
+# Databases
 
 A database is a collection of data. Good database software allows the user to add data, access it, and analyze that data and will have many built-in tools to make this quick and easy. They are perhaps the single most important piece of software that a computer possesses and most people are completely unaware of them.
 
