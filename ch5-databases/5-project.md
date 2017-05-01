@@ -37,3 +37,15 @@ No database is even slightly useful without a couple of queries. The guidance I 
 Come see me or email me if you have any questions at all.
 
 Complete **Part 2** and submit before moving on to **Part 3**
+
+## Part 3 - Build Reports
+
+In order to make something legible, readable, and printable, reports are necessary. For this assignment, you will create some reports based on the database that you have built in the previous two parts.
+
+* Build 3 reports.
+* They can be pulled from your queries or your tables or both.
+* They must "make sense." That is, you should have a good rationale for why _this_ report would be necessary to pull.
+* You will be graded based on apprpriateness of your reports to your dataset, tables, and queries. You will also be scored a little bit on formatting and legibility.
+* Ask the instructor if there's anything you need clarified or if you get stuck.
+
+Complete this and upload it to the portal.
