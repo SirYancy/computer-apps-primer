@@ -29,4 +29,7 @@ For this course, we will focus on [Microsoft Access](https://products.office.com
 
 ## Projects
 
-1. [**Database Project - Part 1**](5-project.md)
+1. [**Database Project**](5-project.md)
+
+
+
