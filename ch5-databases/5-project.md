@@ -1,6 +1,6 @@
 # Project - Build a Relational Database with Microsoft Access
 
-<a title="By Micrososft [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AMicrosoft_Access_2013_logo.svg"><img width="64" alt="Microsoft Access 2013 logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Microsoft_Access_2013_logo.svg/64px-Microsoft_Access_2013_logo.svg.png" style="float:right;"/></a>
+<a title="By Micrososft [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AMicrosoft_Access_2013_logo.svg"><img width="64" alt="Microsoft Access 2013 logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Microsoft_Access_2013_logo.svg/64px-Microsoft_Access_2013_logo.svg.png" style="float:right; padding: 8px;"/></a>
 
 In order to really "get" relational databases and the tools that you can use to interact with them, you really do need to build your own. To that end, you will build a database from scratch and then populate it with your own data \(real or fictional\).  This project will be divided into three parts.
 
@@ -48,4 +48,18 @@ In order to make something legible, readable, and printable, reports are necessa
 * You will be graded based on apprpriateness of your reports to your dataset, tables, and queries. You will also be scored a little bit on formatting and legibility.
 * Ask the instructor if there's anything you need clarified or if you get stuck.
 
-Complete this and upload it to the portal.
+Complete **Part 3** and submit before moving on to **Part 4**.
+
+## Part 4 - Forms
+
+Last, but certainly not least, you will need to give your users some sort of interface with which to interact with your database. So you will need to build some forms. Think carefully about what information your database is storing and how you might be adding it. How should it work?
+
+* Build 2 forms.
+* At least one of the forms must involve more than one table.
+* If you are confused, do not hesitate to look back over the [form tutorial].
+* If you are still confused, try Google or ask the instructor for help.
+
+That's it. Upload the final version of your project.
+
+<!-- Links -->
+[form tutorial]: 5-7-form-1.md
