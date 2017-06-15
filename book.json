@@ -1,6 +1,4 @@
 {
     "plugins":["toggle-chapters",
-               "mathjax",
-               "image-captions",
                "quiz"]
 }
