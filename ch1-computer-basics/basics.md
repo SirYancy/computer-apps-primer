@@ -26,16 +26,14 @@ A computer is a shockingly complex machine. Even the simplest computer has milli
 ## Parts of a Computer
 
 There are four main components that a computer needs to operate and they are all separated by interfaces. An interface in computer science is the place where two systems interact with each other. For example, the interface between the user and the application that the user is working on might consist of a keyboard, a mouse, and a display.
+
 <dl>
     <dt>The User</dt>
     <dd>The User is you. If you are reading this text, you are already a computer user and are likely interfacing with it. The interface that you see is probably a web browser window, and the text has been downloaded to that web browser from a web server somewhere in the world.</dd>
-
-    <dt>The Application layer/dt>
+    <dt>The Application layer</dt>
     <dd>Most often, when using a computer, you will use some sort of application, or app. This might be a web browser, a word processor, a photo editor, or a video game. Applications are self-contained programs which are designed to assist the user in completing some specific task.</dd>
-
     <dt>The Operating System Layer</dt>
     <dd>The Operating System is the main software of the computer. It is usually installed immediately after the machine is manufactured or assembled, and it governs almost all of the computer’s operations. It creates a layer of abstraction between the user, the apps, and the hardware. If you are taking my class, the operating system you are most likely using is called Microsoft Windows 7, though many of the same principles and conventions are followed in most modern operating systems.</dd>
-
     <dt>The Hardware</dt>
     <dd>At the very bottom of the computer hierarchy is the hardware, the bare metal. This text is not designed to go into a great amount of detail about the hardware, as it is primarily geared toward a computer applications class, however, it is probably a good idea to understand what at least some of the hardware components of a computer are, such as the CPU and memory, and a little bit about what those things mean. Especially if you are planning on purchasing a computer yourself. And so, below, you can see a brief overview of the modern computer hardware architecture, otherwise known as the Von Neumann architecture.</dd>
 </dl>

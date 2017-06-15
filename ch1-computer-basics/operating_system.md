@@ -18,12 +18,12 @@
     <dd>Unwanted software installed by the company that manufactured the software.</dd>
 </dl>
 
-![OS Logo](os.jpg)<br>
+![OS Logo](images/os.jpg)<br>
 **Operating System Logos**
 
 <div id="alert" class="alert-info"><strong>Windows 7:</strong>For the purposes of this course, we will focus almost all of our attention on Microsoft Windows 7. There are newer versions of Windows, and there are many other operating systems out there, but this is what we use on campus and it is still largely the industry standard operating system (OS).</div>
 
-![win7](Windows_7.png)<br>
+![win7](images/Windows_7.png)<br>
 **The Windows 7 Desktop**
 
 An operating system is a computer program. A huge, complex, multi-layered computer program that tells the computer how to be a computer. When a computer turns on, it has no idea what to do. So the first thing it does every time it boots up is look for an operating system. If it doesn't find one, it won’t finish turning on and it will be mostly unusable. But, if it finds one, it (very quickly) reads through that operating system’s list of rules. It tells the computer what kinds of programs it can run, which ones are installed, where data should be stored, how memory should be managed.
@@ -91,7 +91,7 @@ Most modern operating systems will have some sort of security built in. Windows,
 
 ### User Interface
 
-![The WIMP Interface](desktop_windows.png)<br>
+![The WIMP Interface](images/desktop_windows.png)<br>
 **The WIMP Interface**
 
 Perhaps most importantly for this class, the Operating System provides a user interface. Specifically, most modern OSs provide what's called a Graphical User Interface, or GUI (pronounced "gooey"). Established a long time ago (in the 70s), this interface usually adheres to a "desktop" metaphor. The idea is to simulate the surface of a desk, where you can move documents around, look through file cabinets, and interact with your work. This "desktop" interface is called a WIMP interface, which stands for Window, Icon, Menu, Pointer. So each of these is essential to that experience. The GUI uses windows to display each active application, icons to signify applications that are available or files that can be opened, Menus to access features and tools, and a pointer controlled by a mouse to point to, activate, and interact with each of these.
@@ -134,6 +134,10 @@ Mobile devices are becoming increasingly common, to the point where more people 
 **WINDOWS MOBILE**
 
 Microsoft is doggedly trying to remain relevant in the mobile market by designing their mobile OS, [Windows Mobile](https://en.wikipedia.org/wiki/Windows_10_Mobile), around tight integration with its primary workstation OS, Windows. It is, in almost all respects, a fine mobile operating system, clean and functional, though with a small application ecosystem. It currently has about 3 percent of the market share. It just hasn't really caught on in the face of the Android and iOS juggernauts.
+
+## Next
+
+In the next section, we will look at one of the most important parts of the OS experience: the **file system**.
 
 [1]: http://www.ubuntu.com/
 [2]: https://www.redhat.com/en
