@@ -27,7 +27,23 @@ There are a few icons that are there by default and some of the most importants 
 
 The system tray is a catchall dumping ground for lots of information about the current state of your system. The most obvious information that it contains is the current date and time. But there's also other information here too.
 
-It will supply information about network connections, volume controls, and also have information about apps running on your computer that don't necessarily have a window associated with them, like a real-time virus scanner.
+It will supply information about network connections, volume controls, and also have information about apps running on your computer that don't necessarily have a window associated with them, like a real-time virus scanner. Go ahead and click on whatever you see there. Try both right-clicking and left-clicking on everything you see and observe what happens.
+
+### Start Button
+
+This button is the gatway to your computer. This is the single-most important interface feature on the Windows 7 desktop. Clicking on it brings up the **Start Menu**.
+
+### Start Menu
+
+The **Start Menu** contains links to nearly every app installed on your computer. It is extremely important that you know where this is and what all you can find here. **Fun Fact:** Microsoft tried to get rid of the start menu and the start button in Windows 8 and the backlash from long-time users was so extreme that that they put it back in Windows 8.1. Indeed, I can't even imagine what misguided logic lead to them trying to do it in the first place. Anyway, let's take a look at the menu. As you read this, make sure you are looking at your own computer's start menu to verify that things look the same, or identify differences.
+
+<div class="alert alert-info"><strong>Note:</strong> If you are using Windwos 8-10 on your home PC, this is going to look different. This course will be updated accordingly when our primary systems are updated (a year or two?). The good news is, the Windows 10 start menu is even easier to use!</div>
+
+The first thing you should notice is that it is divided into two main panes. The right pane has your username and then quick links to folders that should be important to you, such as the documents folder, the **Control Panel**, and it also has the **Shut down** button.
+
+Try clicking on some of these buttons and see what happens.
+
+The left panel shows a list of your most commonly used apps. As you use a computer, this will become more useful. Beneat that, there is a button that says **All Programs**. Left-clicking on this will bring up an alphabetical list of every app installed on your computer. You can scroll down through it using the mousewheel. Beneath that is the far more useful search bar. Typing the name of the app you are looking for into this box will almost immediately bring up a link to that app. For example, typing "word" into the box will allow you to quickly open Microsoft Word.
 
 <!-- Images -->
 [desktop]: images/win7tour.png
