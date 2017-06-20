@@ -43,7 +43,25 @@ The first thing you should notice is that it is divided into two main panes. The
 
 Try clicking on some of these buttons and see what happens.
 
-The left panel shows a list of your most commonly used apps. As you use a computer, this will become more useful. Beneat that, there is a button that says **All Programs**. Left-clicking on this will bring up an alphabetical list of every app installed on your computer. You can scroll down through it using the mousewheel. Beneath that is the far more useful search bar. Typing the name of the app you are looking for into this box will almost immediately bring up a link to that app. For example, typing "word" into the box will allow you to quickly open Microsoft Word.
+The left panel shows a list of your most commonly used apps. As you use a computer, this will become more useful. Beneat that, there is a button that says **All Programs**. Left-clicking on this will bring up an alphabetical list of every app installed on your computer. You can scroll down through it using the mousewheel. Beneath that is the far more useful search bar. Typing the name of the app you are looking for into this box will almost immediately bring up a link to that app. For example, typing "word" into the box will allow you to quickly open Microsoft Word, and typing "excel" will allow you to quickly open Microsoft Excel. I cannot stress enough how useful this feature is.
+
+Built into almost all modern keyboards is a key with a Windows logo on it. It's often called the **Windows Key** or the **Win Key**. Occasionally, you'll see it referred to as the **Super Key**. In the Windows operating system, it has the same effect as clicking on the **Start Button**, that is, it opens the start menu.
+
+![windows key]
+
+Thus, a quick way to open an app without having to hunt for it with the mouse is simply to press the **Win Key** and then start typing, the text will automatically appear in the search bar of the **Start Menu** and the app list will automatically filter to your search. Try it:
+
+1. Press the **Start Key** on your keyboard.
+1. Type "word" on the keyboard.
+1. Observe what happens.
+1. Typically, you can simply hit **Enter** on the keyboard to open the the app the appears first in your search.
+
+## What Next?
+
+Spend a little time tinkering with anything else you find in the main Windows interface. In fact, from time to time, you will want to just play around with whatever you see on the screen. Modern computers are pretty good about preventing you from doing anything that will cause any real damage or at least warn you before you do anything irreversible. So you're fairly free to do whatever you want without fear.
+
+In the next section, we will look at one of the most important apps in any modern operating system: The File Manager.
 
 <!-- Images -->
 [desktop]: images/win7tour.png
+[windows key]: images/windows_key.png
