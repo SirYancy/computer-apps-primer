@@ -24,3 +24,22 @@ This living text will cover the basic use of computer software. Topics will incl
 * Alternatives to Microsoft Office
 * History of Computing
 * Digital Ethics
+
+<quiz name="Test Quiz">
+    <question multiple>
+        <p>What is your quest?</p>
+        <answer correct>To seek the grail</answer>
+        <answer>To Eat Things</answer>
+        <answer>To answer questions</answer>
+        <answer>To learn MS Office</answer>
+    </question>
+    <question>
+        <p>This is a dropdown</p>
+        <answer>
+            <option correct>First</option>
+            <option>Second</option>
+            <option>Third</option>
+            <option>Fourth</option>
+        </answer>
+    </question>
+</quiz>
