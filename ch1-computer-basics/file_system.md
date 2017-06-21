@@ -67,7 +67,7 @@ Let's look at how Windows does this.
         <strong>Left-click</strong> on <strong>New</strong> and from the new menu that pops up, click on <strong>Folder</strong>. A new folder will appear in your Documents library and the name "New Folder" will be highlighted.
     </li>
     <li>
-        Type <pre>ITECH 100</pre> and press <strong>Enter</strong>. You have now created a folder to store all of your files for this class.
+        Type <code>ITECH 100</code> and press <strong>Enter</strong>. You have now created a folder to store all of your files for this class.
     </li>
     <li>
         <strong>Double-click</strong> on the new folder. You are now inside of your new folder and the first thing you will notice, of course, is that it is empty. Let's remedy that.
