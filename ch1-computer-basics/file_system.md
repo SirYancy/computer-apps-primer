@@ -73,7 +73,7 @@ Let's look at how Windows does this.
         <strong>Double-click</strong> on the new folder. You are now inside of your new folder and the first thing you will notice, of course, is that it is empty. Let's remedy that.
     </li>
     <li>
-        <strong>Right-click</strong> somewhere in the folder. Click on <strong>New</strong> and then click on <strong>Microsoft Word Document</strong>a
+        <strong>Right-click</strong> somewhere in the folder. Click on <strong>New</strong> and then click on <strong>Microsoft Word Document</strong>
         <figure>
             <img src="images/new_file.png" alt="New File">
             <figcamption>Creating a New Word Document</figcamption>
@@ -91,6 +91,10 @@ Let's look at how Windows does this.
         Close all other apps and windows. To complete this tutorial, the instructor will come around to each student and verify that you can locate, open, and the close, the file that you just created. While that's happening, feel free to explore some of the other files. See if you can find anything interesting. If anything seems strange or arcane, see if you can figure out what it does or what it's for.
     </li>
 </ol>
+
+## Quiz
+
+
 
 ## Up Next
 
