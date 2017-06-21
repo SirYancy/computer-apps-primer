@@ -76,14 +76,20 @@ Let's look at how Windows does this.
         <strong>Right-click</strong> somewhere in the folder. Click on <strong>New</strong> and then click on <strong>Microsoft Word Document</strong>
         <figure>
             <img src="images/new_file.png" alt="New File">
-            <figcamption>Creating a New Word Document</figcamption>
+            <figcaption>Creating a New Word Document</figcaption>
         </figure>
     </li>
     <li>
         <strong>Double-Click</strong> on the new file. Microsoft Word should open and your new empty file should open automatically.
     </li>
     <li>Type some text into the file. Anything, really. Whatever you like. Just get something on the page. We will go into great detail about Word's capabilities in the next chapter, however, for now, anything will do. </li>
-    <li>To save the Word Document, left-click on the <strong>File</strong> tab at the top-left of the screen. In the backstage menu that appears, select <strong>save</strong>.</li>
+    <li>
+        To save the Word Document, left-click on the <strong>File</strong> tab at the top-left of the screen. In the backstage menu that appears, select <strong>save</strong>.
+        <figure>
+            <img src="images/word_doc.png" alt="The MS Word Window">
+            <figcaption>The Microsoft Word Interface</figcaption>
+        </figure>
+    </li>
     <li>
         Close the file and the app by clicking the <strong>X</strong> button in the top-right corner.
     </li>
@@ -92,9 +98,28 @@ Let's look at how Windows does this.
     </li>
 </ol>
 
-## Quiz
+## Closing Thoughts
 
+It is important for your own sanity that decide early on a system for organizing your files and then stick to it. There is nothing more frustrating that not knowing where you saved a file or worse, never being able to find it again. A simple file organization scheme for a student might be to create a folder for each class in your Documents library so that you know where they are all located quickly. So learn to use the Explorer app, organize your files, and if you have any questions *ask questions*.
 
+<quiz name="File Explorer Quiz">
+    <question multiple>
+        <p>What is a basic data resource on a computer called?</p>
+        <answer>A bit</answer>
+        <answer>A byte</answer>
+        <answer correct>A file</answer>
+        <answer>The Hard Drive</answer>
+        <explanation>A file is the basic named unit of information on a computer.</explanation>
+    </question>
+    <question multiple>
+        <p>How do you navigate the file system in the Windows operating system?</p>
+        <answer>The Finder</answer>
+        <answer correct>The Windows Explorer App</answer>
+        <answer>Bing</answer>
+        <answer>The Start Menu</answer>
+        <explanation>The Explorer app allows you to navigate the file system. The Finder is the name of the file manager app in Apple OS X. Bing is a search engine and the Start Menu is where all the other apps can be found.</explanation>
+    </question>
+</quiz>
 
 ## Up Next
 
