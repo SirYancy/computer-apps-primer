@@ -3,6 +3,14 @@
 <dl>
     <dt>Computer</dt>
     <dd>A device which can be instructed to perform arbitrary sets of arithmetic and logical operations.</dd>
+    <dt>Hardware</dt>
+    <dd>The "bare metal" of a computer. The physical devices and components that make up a computer, including the CPU, the case, the power supply, the mother board, and so on.</dd>
+    <dt>Software</dt>
+    <dd>The part of a computer that consists of data or instructions. It is represented in the hardware as electrical impulses. It is intangible, but it can be interacted with using interface devices.</dd>
+    <dt>Application</dt>
+    <dd>An application or app is a piece of software that the user can interact with. In a modern operating system an app is often represented on the screen by a "window". Common software applications include word processors, spreadsheets, video games, and photo editors.</dd>
+    <dt>Input/Output Device</dt>
+    <dd>A device that allows the user or other computer systems to interact with the core computer systems. Common examples are the screen, mouse, keyboard, speakers, and hard drive.</dd>
 </dl>
 
 ## The Story so far
