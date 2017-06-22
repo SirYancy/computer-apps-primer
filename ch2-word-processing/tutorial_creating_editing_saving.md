@@ -5,7 +5,7 @@ We are going to create, edit, and save a word document. This document will be su
 ## TUTORIAL
 
 <ol>
-    <li>Open Microsoft Word by clicking the **Start Menu** button and either navigating to Word or typing "word" into the search bar.</li>
+    <li>Open Microsoft Word by clicking the <strong>Start Menu</strong> button and either navigating to Word or typing "word" into the search bar.</li>
     <li>
         Word will open into the <strong>backstage view</strong>.
         <figure>
@@ -13,7 +13,7 @@ We are going to create, edit, and save a word document. This document will be su
             <figcaption>Backstage View</figcaption>
         </figure>
     </li>
-    <li>Click on the <strong>Blacnk Document</strong> template.</li>
+    <li>Click on the <strong>Blank Document</strong> template.</li>
     <li>
         In the document, type out a brief introduction for yourself answering these questions:
         <ol>
@@ -41,7 +41,7 @@ We are going to create, edit, and save a word document. This document will be su
             <figcaption>Click "Save As"</figcaption>
         </figure>
     </li>
-    <li>Click **Browse** to open the file explorer.</li>
+    <li>Click <strong>Browse</strong> to open the file explorer.</li>
     <li>
         Navigate to your itech 100 folder which you created in the file manager tutorial. Give this file a logical name. Ensure that it's being saved as a <strong>Word Document (*.docx)</strong>. Click <strong>Save</strong>.
         <figure>
