@@ -9,13 +9,7 @@ This living text will cover the basic use of computer software. Topics will incl
 ## Table of Contents
 
 * [1 - Computer Basics](ch1-computer-basics/basics.md)
-  * [The Operating System](ch1-computer-basics/operating_system.md)
-  * [Windows 7 Tour](ch1-computer-basics/windows_7.md)
-  * [TUTORIAL - The File System](ch1-computer-basics/file_system.md)
-  * [Productivity Software](ch1-computer-basics/productivity_software.md)
 * [2 - Word Processing](ch2-word-processing/introduction.md)
-    * [Word Tour](ch2-word-processing/word_tour.md)
-    * [TUTORIAL - Creating, Editing, and Saving Documents](ch2-word-processing/tutorial_creating_editing_saving.md)
 * [3 - Presentation Graphics](ch3-presentation/3-presentation.md)
 * [4 - Spreadsheets](ch4-spreadsheets/4-spreadsheets.md)
 * [5 - Databases](ch5-databases/5-databases.md)

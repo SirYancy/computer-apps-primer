@@ -10,6 +10,7 @@ The computers on campus run Word 2013, however, many of the screenshots in this 
 
 1. [**Word Tour**](word_tour.md)
 2. [**TUTORIAL - Creating, Editing, and Saving Documents**](tutorial_creating_editing_saving.md)
+3. [**TUTORIAL - Basic Text Editing**](tutorial_basic_text.md)
 
 ## Text
 

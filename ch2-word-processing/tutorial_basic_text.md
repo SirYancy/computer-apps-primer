@@ -58,7 +58,7 @@ In the following tutorial, we are going to write a basic block-style letter. In 
     <li>
         Type the following paragraph <em>exactly</em> as it appears here (typos and all):
         <pre>
-        Thank you for taking the time to resond to my question. Enclosed is an image of of the stone I found on my hike a couple weeks ago. I belive it is a meteorite, but my friends don't agree. So I wanted to ask someone more knowledgable about the subject. I know their is only a small chance that it is a meteorite, but I wanted to make sure.
+        Thank you for taking the time to resond to my question. Enclosed is an image of of the stone I found on my hike a couple weeks ago. I belive it is a meteorite, but my friends don't agree. So I wanted to ask someone more knowledgable about the subject. I know their is only a small chance that it is a meteorite, but I wanted to make sure. &crarr;
         </pre>
     </li>
     <li>
@@ -84,6 +84,28 @@ In the following tutorial, we are going to write a basic block-style letter. In 
         Click the <strong>Delete</strong> button to fix the first error. Go through each of the rest of the errors and take the suggested fix for each one. If you have different errors than shown here, feel free to fix those as well.
     </li>
     <li>
-        
+        Type the following paragraph as it appears here:
+        <pre>
+        I understand that you are very busy and I appreciate you taking the time to verify this for me. If you have any questions, feel free to contact me at <yourname>@email.com. &crarr;
+        </pre>
+        Where it says "yourname", enter your name. Notice that when you hit enter to create the next paragraph, the email address is automatically underlined in blue. Word has automatically detected that it is an email address and has converted the text into a <strong>hyperlink</strong>. As a general rule, if you are going to be submitting the document electronically, you would leave the hyperlink as it is, but if you are going to be printing the document and hand-delivering or mailing it, then you should remove the hyperlink since you can't exactly click on a piece of paper.
+    </li>
+    <li>
+        To remove the hyperlink, <strong>right-click</strong> on it and in the context-menu that appears, <strong>left-click</strong> on <em>Remove Hyperlink</em>
+        <figure>
+            <img src="images/tutorial2/6.png" alt="Remove hyperlink">
+            <figcaption>Remove the hyperlink</figcaption>
+        </figure>
+    </li>
+    <li>
+        To close the letter, type:
+        <pre>
+        Sincerely, &crarr;
+        &crarr;
+        <your name>
+        </pre>
+    </li>
+    <li>
+    Save the document and submit it to the class portal as normal.
     </li>
 </ol>

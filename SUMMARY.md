@@ -9,6 +9,7 @@
 * [2 - Word Processing](ch2-word-processing/introduction.md)
   * [Word Tour](ch2-word-processing/word_tour.md)
   * [TUTORIAL - Creating, Editing, and Saving Documents](ch2-word-processing/tutorial_creating_editing_saving.md)
+  * [TUTORIAL - Basic Text Editing](ch2-word-processing/tutorial_basic_text.md)
 * [3 - Presentation software](ch3-presentation/3-presentation.md)
 * [4 - Spreadsheets](ch4-spreadsheets/4-spreadsheets.md)
   * [TUTORIAL 1 - Formulas 1](ch4-spreadsheets/4-1-formulas_1.md)
