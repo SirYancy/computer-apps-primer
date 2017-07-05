@@ -136,7 +136,7 @@ For this tutorial, we will be creating a flyer for a found "pet". The inspiratio
     <li>
         To resize the image, you click and drag on one of the eight "handles" on the edges of the selected image. For our purposes, ensure that you <em>always</em> use the corner handles. If you use the edge handles, it will stretch and distort the image. To maintain its <strong>aspect ratio</strong>, we click and drag from the corners. Try it now. Drag one of the corner handles until the image is smaller. Keep resizing the image in small increments until all of the content fits on one page again. In the <strong>Picture Tools</strong> tab, on the right, the height and width of the image should be a little less than 4 inches by 3 inches.
         <figure>
-            <img src="iamges/tutorial3/14.png" alt="resize">
+            <img src="images/tutorial3/14.png" alt="resize">
             <figcaption>Resizing the Image</figcaption>
         </figure>
     </li>
