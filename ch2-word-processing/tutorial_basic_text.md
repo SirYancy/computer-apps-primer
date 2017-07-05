@@ -86,7 +86,7 @@ In the following tutorial, we are going to write a basic block-style letter. In 
     <li>
         Type the following paragraph as it appears here:
         <pre>
-        I understand that you are very busy and I appreciate you taking the time to verify this for me. If you have any questions, feel free to contact me at <yourname>@email.com. &crarr;
+        I understand that you are very busy and I appreciate you taking the time to verify this for me. If you have any questions, feel free to contact me at &lt;yourname&gt;@email.com. &crarr;
         </pre>
         Where it says "yourname", enter your name. Notice that when you hit enter to create the next paragraph, the email address is automatically underlined in blue. Word has automatically detected that it is an email address and has converted the text into a <strong>hyperlink</strong>. As a general rule, if you are going to be submitting the document electronically, you would leave the hyperlink as it is, but if you are going to be printing the document and hand-delivering or mailing it, then you should remove the hyperlink since you can't exactly click on a piece of paper.
     </li>
@@ -102,10 +102,36 @@ In the following tutorial, we are going to write a basic block-style letter. In 
         <pre>
         Sincerely, &crarr;
         &crarr;
-        <your name>
+        &lt;your name&gt;
         </pre>
     </li>
     <li>
-    Save the document and submit it to the class portal as normal.
+        Our last task is to fix some of the formatting. Remember that whenever you press the <strong>Enter/Return</strong> key, Word creates a new paragraph. Observe how the paragraphs of this document are spaced. Notice that inside the longer paragraphs, the lines are single-spaced. That is, they are all scrunched up, visually creating a cohesive unit of information. Between each paragraph, Word inserts an extra line of white space. Normally, this is fine. But at the top of the document, it doesn't look right that the addresses are double-spaced like that. To remove this extra whitespace, click once in the margin to the left of the first line:
+        <figure>
+            <img src="images/tutorial2/7.png" alt="Select Line">
+            <figcaption>Select just the first line of text</figcaption>
+        </figure>
+        The cursor will flip backwards to indicate that you are in the right place. With the first line selected, in the <strong>Paragraph</strong> group of the <strong>Home</strong> tab, click the <strong>Line and Paragraph Spacing</strong> tool. In the menu that opens, click <strong>Remove Space After Paragraph</strong>.
+        <figure>
+            <img src="images/tutorial2/8.png" alt="Remove Space">
+            <figcaption>Remove the space after the paragraph</figcaption>
+        </figure>
+        The return address should now look like one block of text.
+    </li>
+    <li>
+        Next, we do the same thing with the recipient's address. Observe carefully, though. Only select the first two lines of the address, that is, the name "Jasper Gemstone" and the street address "310 Pillsbury Drive SE".
+        <figure>
+            <img src="images/tutorial2/9.png" alt="recipient">
+            <figcaption>Just select the first two lines of the address</figcaption>
+        </figure>
+        Once again, remove the space after the paragraphs in the <strong>Line and Paragraph Spacing</strong> menu. Observe how the addresses and the date now are spaced logically so that the eye sees them as discrete pieces of information.
+    </li>
+    <li>
+        Your final file should look like this.
+        <figure>
+            <img src="images/tutorial2/10.png" alt="final">
+            <figcaption>The completed document</figcaption>
+        </figure>
+        Save the document and submit it to the class portal as normal.
     </li>
 </ol>
