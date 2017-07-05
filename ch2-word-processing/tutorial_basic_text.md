@@ -88,7 +88,7 @@ In the following tutorial, we are going to write a basic block-style letter. In 
         <pre>
         I understand that you are very busy and I appreciate you taking the time to verify this for me. If you have any questions, feel free to contact me at &lt;yourname&gt;@email.com. &crarr;
         </pre>
-        Where it says "yourname", enter your name. Notice that when you hit enter to create the next paragraph, the email address is automatically underlined in blue. Word has automatically detected that it is an email address and has converted the text into a <strong>hyperlink</strong>. As a general rule, if you are going to be submitting the document electronically, you would leave the hyperlink as it is, but if you are going to be printing the document and hand-delivering or mailing it, then you should remove the hyperlink since you can't exactly click on a piece of paper.
+        Where it says "yourname", enter your name. Notice that when you hit enter to create the next paragraph, the email address is automatically underlined in blue. Word has detected that it is an email address and has converted the text into a <strong>hyperlink</strong>. As a general rule, if you are going to be submitting the document electronically, you would leave the hyperlink as it is, but if you are going to be printing the document and hand-delivering or mailing it, then you should remove the hyperlink since you can't exactly click on a piece of paper.
     </li>
     <li>
         To remove the hyperlink, <strong>right-click</strong> on it and in the context-menu that appears, <strong>left-click</strong> on <em>Remove Hyperlink</em>
@@ -125,6 +125,18 @@ In the following tutorial, we are going to write a basic block-style letter. In 
             <figcaption>Just select the first two lines of the address</figcaption>
         </figure>
         Once again, remove the space after the paragraphs in the <strong>Line and Paragraph Spacing</strong> menu. Observe how the addresses and the date now are spaced logically so that the eye sees them as discrete pieces of information.
+    </li>
+    <li>
+        Last, but certainly not least, if you zoom out and look at the document as a whole (you can zoom using the slider at the bottom-right corner of the window), you will notice that all of the text of the letter is scrunched up at the top of the page leaving all of the blank white space at the bottom. It will look better when it's printed if we balance the whitespace equally at the top and the bottom. To do this, we could just add a bunch of new lines at the top of the document. But, for a cleaner approach, we'll just increase the size of the top margin. In the <strong>Layout</strong> tab, find the <strong>Margins</strong> tool in the <strong>Page Setup</strong> group. None of the defaults is appropriate, so we will select the <strong>Custom Margins</strong> option at the bottom of the menu.
+        <figure>
+            <img src="images/tutorial2/11.png" alt="custom margins">
+            <figcaption>Custom Margins</figcaption>
+        </figure>
+        In the dialog that opens, feel free to browse all of the tools that are available here and when you are ready, change the top margin to <em>3</em> inches and press <strong>OK</strong>.
+        <figure>
+            <img src="images/tutorial2/12.png" alt="3 inches">
+            <figcaption>Change the top margin to 3 inches</figcaption>
+        </figure>
     </li>
     <li>
         Your final file should look like this.
