@@ -8,28 +8,31 @@ The computers on campus run Word 2013, however, many of the screenshots in this 
 
 ## Word Basics
 
-1. [**Word Tour**](word_tour.md)
-2. [**TUTORIAL 1 - Creating, Editing, and Saving Documents**](tutorial_creating_editing_saving.md)
-3. [**TUTORIAL 2 - Basic Text Editing**](tutorial_basic_text.md)
-4. [**PROJECT 1 - Block Style Letter**](project_block_letter.md)
+* [**Word Tour**](word_tour.md)
+* [**TUTORIAL 1 - Creating, Editing, and Saving Documents**](tutorial_creating_editing_saving.md)
+* [**TUTORIAL 2 - Basic Text Editing**](tutorial_basic_text.md)
+* [**PROJECT 1 - Block Style Letter**](project_block_letter.md)
+
+## Formatting Text
+
+* [**TUTORIAL 3 - Formatting Text and Images**](tutorial_formatting_images.md)
 
 ## Text
 
-1. [**Basic Text Editing**](2-2_basic_text_editing.md)
-2. [**Formatting**](http://itech.erickuha.com/word-processing/basic-formatting/)
-3. [**Spacing**](http://itech.erickuha.com/word-processing/paragraph-spacing/)
-4. [**More Formatting**](http://itech.erickuha.com/word-processing/orientation-shading-borders/)
+* [**Formatting**](http://itech.erickuha.com/word-processing/basic-formatting/)
+* [**Spacing**](http://itech.erickuha.com/word-processing/paragraph-spacing/)
+* [**More Formatting**](http://itech.erickuha.com/word-processing/orientation-shading-borders/)
 
 ## Layout
 
-1. [**Working with Images**](http://itech.erickuha.com/word-processing/inserting-and-manipulating-images/)
+* [**Working with Images**](http://itech.erickuha.com/word-processing/inserting-and-manipulating-images/)
 
 ## Word Processing Exercises
 
-1. [**Word Exercises I**](http://itech.erickuha.com/word-processing/word-exercises-i/)
+* [**Word Exercises I**](http://itech.erickuha.com/word-processing/word-exercises-i/)
 
 ## Word Processing Projects
 
 
-2. [**Flyer**](http://itech.erickuha.com/word-processing/project-2-flyer/)
-3. [**Resume**](http://itech.erickuha.com/word-processing/project-3-resume/)
+* [**Flyer**](http://itech.erickuha.com/word-processing/project-2-flyer/)
+* [**Resume**](http://itech.erickuha.com/word-processing/project-3-resume/)
