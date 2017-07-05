@@ -9,8 +9,9 @@ The computers on campus run Word 2013, however, many of the screenshots in this 
 ## Word Basics
 
 1. [**Word Tour**](word_tour.md)
-2. [**TUTORIAL - Creating, Editing, and Saving Documents**](tutorial_creating_editing_saving.md)
-3. [**TUTORIAL - Basic Text Editing**](tutorial_basic_text.md)
+2. [**TUTORIAL 1 - Creating, Editing, and Saving Documents**](tutorial_creating_editing_saving.md)
+3. [**TUTORIAL 2 - Basic Text Editing**](tutorial_basic_text.md)
+4. [**PROJECT 1 - Block Style Letter**](project_block_letter.md)
 
 ## Text
 
@@ -29,6 +30,6 @@ The computers on campus run Word 2013, however, many of the screenshots in this 
 
 ## Word Processing Projects
 
-1. [**Block Style Letter**](http://itech.erickuha.com/word-processing/project-1-block-style-letter/)
+
 2. [**Flyer**](http://itech.erickuha.com/word-processing/project-2-flyer/)
 3. [**Resume**](http://itech.erickuha.com/word-processing/project-3-resume/)
