@@ -16,6 +16,8 @@ The computers on campus run Word 2013, however, many of the screenshots in this 
 ## Formatting Text
 
 * [**TUTORIAL 3 - Formatting Text and Images**](tutorial_formatting_images.md)
+* [**PROJECT 2 - Flyer**](project_flyer.md)
+
 
 ## Text
 
