@@ -21,6 +21,8 @@ For this tutorial, we will be creating a flyer for a found "pet". The inspiratio
     <dd>Quickly and easily apply complex formatting from one piece of text to another without having to repeat all of the same steps over again.</dd>
     <dt>Images</dt>
     <dd>What would a modern document be without a few pictures? Word has come a long way in its ability to insert and manipulate images in documents. We'll try out a few of the image manipulation tools that Word provides.</dd>
+    <dt>Theme</dt>
+    <dd>The theme of a document is the unified set of colors and fonts that give the document a cohesive feel.</dd>
 </dl>
 
 ## TUTORIAL
@@ -29,7 +31,7 @@ For this tutorial, we will be creating a flyer for a found "pet". The inspiratio
     <li>
         Download these two files:
         <ul>
-            <li><a href="https://s3.amazonaws.com/lltc-itech/ITECH100/tutorial3.docx">Example File</a></li>
+            <li><a href="https://s3.amazonaws.com/lltc-itech/ITECH100/tutorial3_start.docx">Example File</a></li>
             <li><a href="https://s3.amazonaws.com/lltc-itech/ITECH100/possum.jpg">Example Image</a></li>
         </ul>
         Move both files from the downloads folder to somewhere that you won't lose them.
@@ -148,6 +150,13 @@ For this tutorial, we will be creating a flyer for a found "pet". The inspiratio
         </figure>
     </li>
     <li>
-        Replace the name at the bottom with your own and adjust font sizes as needed to fit everything on one page. With that, the flyer is complete. Submit the completed file to the class portal.
+        The last thing we will do is change the <strong>Theme</strong>. In the <strong>Design</strong> tab, on the far left is the <strong>Themes</strong> tool. Click it to open a menu of available themes. Hover the mouse pointer over a few of them and see how they change the document. Each one is a complete package of fonts, colors, and styles designed to work harmnoniously together. In fact, you've been operating under a theme this whole time. The default theme is called "<em>Office</em>". By using the theme colors and theme fonts, you can change the entire look and feel of a document by simply changing its theme. Select the "<em>Retrospect</em>" theme.
+        <figure>
+            <img src="images/tutorial3/16.png" alt="theme">
+            <figcaption>The Themes palette.</figcaption>
+        </figure>
+    </li>
+    <li>
+        Finally, replace the name at the bottom with your own and adjust font sizes as needed to fit everything on one page. With that, the flyer is complete. Submit the completed file to the class portal.
     </li>
 </ol>
