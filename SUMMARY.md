@@ -12,6 +12,7 @@
   * [TUTORIAL - Basic Text Editing](ch2-word-processing/tutorial_basic_text.md)
   * [PROJECT - Block Style Letter](ch2-word-processing/project_block_letter.md)
   * [TUTORIAL - Formatting Text and Images](ch2-word-processing/tutorial_formatting_images.md)
+  * [PROJECT - Flyer](ch2-word-processing/project_flyer.md)
 * [3 - Presentation software](ch3-presentation/3-presentation.md)
 * [4 - Spreadsheets](ch4-spreadsheets/4-spreadsheets.md)
   * [TUTORIAL 1 - Formulas 1](ch4-spreadsheets/4-1-formulas_1.md)
