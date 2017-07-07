@@ -3,6 +3,7 @@
 Before completing this project, ensure that you have completed the formatting tutorial:
 
 * [Tutorial 3 - Formatting Text and Images](tutorial_formatting_images.md)
+* [Example Finished Flyer](https://s3.amazonaws.com/lltc-itech/ITECH100/tutorial3.pdf)
 
 ## Discussion
 
