@@ -17,7 +17,7 @@ The computers on campus run Word 2013, however, many of the screenshots in this 
 
 * [**TUTORIAL 3 - Formatting Text and Images**](tutorial_formatting_images.md)
 * [**PROJECT 2 - Flyer**](project_flyer.md)
-
+* [**TUTORIAL 4 - Themes and Styles**](tutorial_styles_themes.md)
 
 ## Text
 
@@ -33,8 +33,3 @@ The computers on campus run Word 2013, however, many of the screenshots in this 
 
 * [**Word Exercises I**](http://itech.erickuha.com/word-processing/word-exercises-i/)
 
-## Word Processing Projects
-
-
-* [**Flyer**](http://itech.erickuha.com/word-processing/project-2-flyer/)
-* [**Resume**](http://itech.erickuha.com/word-processing/project-3-resume/)

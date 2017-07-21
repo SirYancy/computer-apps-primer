@@ -31,8 +31,8 @@ For this tutorial, we will be creating a flyer for a found "pet". The inspiratio
     <li>
         Download these two files:
         <ul>
-            <li><a href="https://s3.amazonaws.com/lltc-itech/ITECH100/tutorial3_start.docx">Example File</a></li>
-            <li><a href="https://s3.amazonaws.com/lltc-itech/ITECH100/possum.jpg">Example Image</a></li>
+            <li><a href="https://s3.amazonaws.com/lltc-itech/ITECH100/word_resources/tutorial3_start.docx">Example File</a></li>
+            <li><a href="https://s3.amazonaws.com/lltc-itech/ITECH100/word_resources/possum.jpg">Example Image</a></li>
         </ul>
         Move both files from the downloads folder to somewhere that you won't lose them.
     </li>
