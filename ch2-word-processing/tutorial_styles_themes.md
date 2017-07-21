@@ -47,7 +47,7 @@ One of the most important rules when it comes to building professional documents
         Notice that there are more than one level of headings. This allows you to arrange information in a document according a hierarchy. It is unlikely that you will have more than a few levels of headings in any normal document, however, the option exists if you want it. It's usually best to use the lowest level heading that keeps your document's hierarchy clear.
         <figure>
             <img src="images/tutorial4/5.png" alt="Heading levels">
-            <figcaption>Eight levels of headingst.</figcaption>
+            <figcaption>Eight levels of headings</figcaption>
         </figure>
     </li>
     <li>
@@ -93,6 +93,10 @@ One of the most important rules when it comes to building professional documents
     </li>
     <li>
         Our last task will be to change the <strong>Theme</strong> of the document. Themes are built-in sets of fonts, styles, colors, and other formatting that are designed to go together harmoniously. Since most people aren't real great at design, why not let Word do all of the hard work for you? Go to the <strong>Design</strong> tab. At the left end of the ribbon, there is a <strong>Theme</strong> tool which will open a menu with several pre-designed themes for you to choose from. Hover the moust over a few of them and observe how they change the entire look of the document. Select the <strong>Facet</strong> theme.
+        <figure>
+            <img src="images/tutorial4/12.png" alt="facet theme">
+            <figcaption>Selecting a <strong>Theme</strong></figcaption>
+        </figure>
     </li>
     <li>
         Save your document and upload it to the class portal.
