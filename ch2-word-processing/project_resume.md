@@ -43,13 +43,13 @@ It's probably safe to say that at some point in your life, you will have to writ
         </figure>
     </li>
     <li>
-        When the file opens up, it's basically a fill-in-the-blank form. Scattered throughout the document is dummy text boxes called **Document Controls**. Click where it says <strong>Your Name</strong> at the top of the page. Notice that whole thing is selected. Simply begin typing your own name and it will replace the document control and already be formatted.
+        When the file opens up, it's basically a fill-in-the-blank form. Scattered throughout the document is dummy text boxes called <strong>Document Controls</strong>. Click where it says <strong>Your Name</strong> at the top of the page. Notice that whole thing is selected. Simply begin typing your own name and it will replace the document control and already be formatted.
     </li>
     <li>
         Fill in the rest of the heading with your name and contact information. If you don't want to, you don't have to use real information. Feel free to be as creative or silly as you wish, just so long as it <em>looks</em> professional.
     </li>
     <li>
-        Start filling in the rest of the resume template with your own information. Use the **document controls** to make this easier as they say exactly what information belongs there.
+        Start filling in the rest of the resume template with your own information. Use the <strong>document controls</strong> to make this easier as they say exactly what information belongs there.
     </li>
     <li>
         When filling in a section like the work experience section, the template typically only gives you one template to work with. So to include multiple jobs, you'll have to duplicate that template. This is actually pretty easy. First, select the text of the job description template as shown here:
@@ -57,7 +57,7 @@ It's probably safe to say that at some point in your life, you will have to writ
             <img src="images/project3/3.png" alt="Highlight job">
             <figcaption>Select text to duplicate</figcaption>
         </figure>
-        Next, <strong>copy</strong> the text with either the <strong>Copy</strong> tool in the <strong>Clipboard</strong> group of the <strong>Home</strong> tab, or hit **Ctrl-C** on your keyboard. Now that the selected text is in the clipboard, move the insertion point to the end of the text and press **Enter** to create a new paragraph. It should look like this:
+        Next, <strong>copy</strong> the text with either the <strong>Copy</strong> tool in the <strong>Clipboard</strong> group of the <strong>Home</strong> tab, or hit <strong>Ctrl-C</strong> on your keyboard. Now that the selected text is in the clipboard, move the insertion point to the end of the text and press <strong>Enter</strong> to create a new paragraph. It should look like this:
         <figure>
             <img src="images/project3/4.png" alt="Duplicating">
             <figcaption>Make some room for the new templaten</figcaption>
