@@ -16,6 +16,7 @@
   * [TUTORIAL - Themes and Styles](ch2-word-processing/tutorial_styles_themes.md)
   * [PROJECT - Resume](ch2-word-processing/project_resume.md)
 * [3 - Presentation software](ch3-presentation/introduction.md)
+    * [PowerPoint Tour](ch3-presentation/powerpoint_tour.md)
 * [4 - Spreadsheets](ch4-spreadsheets/4-spreadsheets.md)
   * [TUTORIAL 1 - Formulas 1](ch4-spreadsheets/4-1-formulas_1.md)
   * [TUTORIAL 2 - Formulas 2](ch4-spreadsheets/4-2-formulas_2.md)
