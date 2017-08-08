@@ -6,7 +6,7 @@ Microsoft PowerPoint is a presentation graphics application that includes a suit
 ## PowerPoint at a Glance
 
 <figure>
-    <img src="iamges/tour/powerpoint_tour.png" alt="PowerPoint Interface">
+    <img src="images/tour/powerpoint_tour.png" alt="PowerPoint Interface">
     <figcaption>The MS PowerPoint Interface</figcaption>
 </figure>
 
