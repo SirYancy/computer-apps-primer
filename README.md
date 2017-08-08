@@ -10,7 +10,7 @@ This living text will cover the basic use of computer software. Topics will incl
 
 * [1 - Computer Basics](ch1-computer-basics/basics.md)
 * [2 - Word Processing](ch2-word-processing/introduction.md)
-* [3 - Presentation Graphics](ch3-presentation/3-presentation.md)
+* [3 - Presentation Graphics](ch3-presentation/introduction.md)
 * [4 - Spreadsheets](ch4-spreadsheets/4-spreadsheets.md)
 * [5 - Databases](ch5-databases/5-databases.md)
 * The Internet
