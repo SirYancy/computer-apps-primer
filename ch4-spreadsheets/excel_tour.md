@@ -33,4 +33,4 @@ Spreadsheets have a long history. Indeed, the spreadsheet is one of the first so
 
 This is a lot to take in. But the tutorials that follow will help to ease you into easily one of the most useful pieces of software that you will ever use. With Excel, you can build a basic household budget, analyze scientific data, or build reports for work. Not everyone will find a place for Excel in their lives and careers, but it's always better to learn the basics so that in case you _do_ need it later, you'll have it.
 
-Let's get started.
+Let's start with some theory.
