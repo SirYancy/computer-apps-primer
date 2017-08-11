@@ -1,7 +1,7 @@
 # What is a spreadsheet?
 
-<figure style="float: right">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Hauptbuch_Hochstetter_vor_1828.jpg" width="700px"/>
+<figure>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Hauptbuch_Hochstetter_vor_1828.jpg" width="700px"/>
     <figcaption>An ancient ledger. <a href="https://commons.wikimedia.org/wiki/File%3AHauptbuch_Hochstetter_vor_1828.jpg">via Wikimedia Commons</a></figcaption>
 </figure>
 

@@ -8,7 +8,7 @@ Spreadsheets have a long history. Indeed, the spreadsheet is one of the first so
 ## Excel at a Glance
 
 <figure>
-    <img src="images/tour/excel_tour.png" alt="Excel Interface">
+    <img src="images/tour/1.png" alt="Excel Interface">
     <figcaption>The MS Excel Interface</figcaption>
 </figure>
 

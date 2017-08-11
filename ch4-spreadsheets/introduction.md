@@ -9,5 +9,5 @@ The spreadsheet is the software that earned the computer its keep. The promise o
 ## Excel Basics
 
 * [**Excel Tour**](excel_tour.md)
-* [Spreadsheet Theory](spreadsheet_theory.md)
+* [**Spreadsheet Theory**](spreadsheet_theory.md)
 
