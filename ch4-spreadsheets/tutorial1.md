@@ -91,3 +91,24 @@ The documentation sheet will be used to document basic information about the wor
 The first thing that any good packing slip needs is the address of the customer. This will give us a little practice with basic data entry.
 
 1. Select cell **A1** if it is not already selected. Type **Packing Slip**. Press **Enter** twice. Cell **B3** should be selected.
+1. Type **Ship To**. and press **Enter**.
+1. For each of the cells from A4:A10, enter the following:
+  * Name
+  * Address
+  * City
+  * State
+  * ZIP
+1. Click **B4** to make it active and enter the following data, pressing **Enter** after each.
+  * **Ned Flanders**
+  * **744 Evergreen Terrace**
+  * **Springfield**
+  * **NT** (This is often cited as the fictional town where the Simpsons live)
+  * **42364**
+1. Your final product will like this <br> ![packing slip][5]
+
+### Fixing alignment
+
+Now, we need to fix some alignment issues which gives us a good opportunity to talk about how Excel treats numbers and text differently.
+
+<!-- Images -->
+[5]: images/tutorial1/5.png
