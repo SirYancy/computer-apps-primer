@@ -108,7 +108,9 @@ The first thing that any good packing slip needs is the address of the customer.
 
 ### Fixing alignment
 
-Now, we need to fix some alignment issues which gives us a good opportunity to talk about how Excel treats numbers and text differently.
+Now, we need to fix some alignment issues which gives us a good opportunity to talk about how Excel treats numbers and text differently. When Excel sees a cell with any letters in it, it automatically assumes it's "text" in the sense that it's made up of words or phrases. Whenever you enter only numerical data, Excel sees a number and allows you to do some different things with it. For one, it will format them differently. Numbers always right-align by default and text always left-aligns by default. Think about how we read from left to right, but we add/subtract/multiply from right to left. In this particular case, we have a problem with the ZIP code because ZIP codes aren't really numbers in the traditional sense. You never add or multiply ZIP codes, so on the packing slip, it would look nicer if we format the ZIP code as if it were text.
+
+
 
 <!-- Images -->
 [5]: images/tutorial1/5.png
