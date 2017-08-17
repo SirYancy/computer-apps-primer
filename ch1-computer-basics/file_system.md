@@ -94,7 +94,7 @@ Let's look at how Windows does this.
         Close the file and the app by clicking the <strong>X</strong> button in the top-right corner.
     </li>
     <li>
-        Close all other apps and windows. To complete this tutorial, the instructor will come around to each student and verify that you can locate, open, and the close, the file that you just created. While that's happening, feel free to explore some of the other files. See if you can find anything interesting. If anything seems strange or arcane, see if you can figure out what it does or what it's for.
+        Close all other apps and windows. To complete this tutorial, the instructor will come around to each student and verify that you can locate, open, and then close, the file that you just created. While that's happening, feel free to explore some of the other files. See if you can find anything interesting. If anything seems strange or arcane, see if you can figure out what it does or what it's for.
     </li>
 </ol>
 

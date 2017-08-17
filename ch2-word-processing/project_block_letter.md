@@ -44,4 +44,4 @@ Formatting requirements
 
 For inspiration, here is another example document
 
-[**Example Document**](https://s3.amazonaws.com/lltc-itech/ITECH100/word_project_1.pdf)
+[**Example Document**](res/word_project_1.pdf)
