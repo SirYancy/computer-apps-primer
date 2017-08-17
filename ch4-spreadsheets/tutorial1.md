@@ -90,4 +90,4 @@ The documentation sheet will be used to document basic information about the wor
 
 The first thing that any good packing slip needs is the address of the customer. This will give us a little practice with basic data entry.
 
-* Select cell **A1** if it is not already selected. Type **Packing Slip**. Press **Enter** twice. Cell **B3** should be selected.
+1. Select cell **A1** if it is not already selected. Type **Packing Slip**. Press **Enter** twice. Cell **B3** should be selected.
