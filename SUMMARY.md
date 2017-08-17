@@ -20,6 +20,7 @@
 * [4 - Spreadsheets](ch4-spreadsheets/introduction.md)
   * [Excel Tour](ch4-spreadsheets/excel_tour.md)
   * [Spreadsheet Theory](ch4-spreadsheets/spreadsheet_theory.md)
+  * [TUTORIAL - Excel Basics](ch4-spreadsheets/tutorial1.md)
   * [TUTORIAL 1 - Formulas 1](ch4-spreadsheets/4-1-formulas_1.md)
   * [TUTORIAL 2 - Formulas 2](ch4-spreadsheets/4-2-formulas_2.md)
   * [TUTORIAL 3 - Absolute References](ch4-spreadsheets/4-3-absolute-references.md)
