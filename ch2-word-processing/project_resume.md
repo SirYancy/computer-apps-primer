@@ -1,6 +1,6 @@
 # Project 3 - Resume
 
-[Example File](https://s3.amazonaws.com/lltc-itech/ITECH100/word_resources/project_3.pdf)
+[Example File](http://erickuha.com/primer/word_resources/project_3.pdf)
 
 ## Discussion
 

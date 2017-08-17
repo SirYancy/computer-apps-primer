@@ -36,7 +36,7 @@ Spreadsheet software does all of this and more. We are going to start relatively
 
 The basic file format of a spreadsheet file, as seen earlier, is a **workbook**. Each workbook is divided into **worksheets**. Each worksheet is divided into **cells**. The cells are regularly aligned and spaced into **rows** and **columns**. Each cell is capable of holding data of many different types.  Each cell can be identified by the letter of its column and the number of its row. This is called the **name** or **address** of the cell. The upper limit of cells that a spreadsheet can support is around 16,000 columns and a little over a million rows.
 
-To follow along, download the <a href="https://s3.amazonaws.com/lltc-itech/ITECH100/excel_resources/example1.xlsx">example file</a>.
+To follow along, download the <a href="http://erickuha.com/primer/excel_resources/example1.xlsx">example file</a>.
 
 It should look like this:
 

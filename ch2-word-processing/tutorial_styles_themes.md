@@ -15,7 +15,7 @@ One of the most important rules when it comes to building professional documents
 
 ## TUTORIAL
 
-[Start File](https://s3.amazonaws.com/lltc-itech/ITECH100/word_resources/tutorial4_start.docx)
+[Start File](http://erickuha.com/primer/word_resources/tutorial4_start.docx)
 
 <ol>
     <li>
