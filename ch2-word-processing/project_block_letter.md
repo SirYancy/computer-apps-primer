@@ -44,4 +44,4 @@ Formatting requirements
 
 For inspiration, here is another example document
 
-[**Example Document**](res/word_project_1.pdf)
+[**Example Document**](http://erickuha.com/primer/word_resources/word_project_1.pdf)
