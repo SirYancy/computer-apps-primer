@@ -126,7 +126,23 @@ If you click back over to the documentation sheet, you have entered today's date
 
 Now, we want to actually create a table of data. Let's say Ned Flanders orders a bunch of our fine widgets and he orders a wide variety of them. Let's build a table that will clearly display all of the different widgets that he has ordered.
 
-1. 
+| BARCODE    | CONDITION | FINISH | WIDGET                      | PRICE | QUANTITY |
+|------------|-----------|--------|-----------------------------|-------|----------|
+| 7276-86434 | New       | Glossy | rockwell retro encabulator  | 12.45 | 4        |
+| 6128-89793 | Used      | Matte  | unilateral phase detractors | 67.45 | 2        |
+| 7599-14097 | Used      | Greasy | cardinal gram meters        | 19.99 | 16       |
+| 8169-64109 | New       | Satin  | hydrocoptic marzel veins    | 8.75  | 1        |
+| 5468-32757 | New       | Wood   | panametric fans             | 123.4 | 1        |
+
+
+1. Click on cell **A10**.  In cells **A10:F10** enter the headings for our table as follows (this time, press the **tab** key between each entry to avoid having to using the mouse):
+  * BARCODE
+  * CONDITION
+  * FINISH
+  * WIDGET
+  * PRICE
+  * QUANTITY
+1. Under the headings, enter the data as shown in the table above in the cell range **A11:F15**. Some of the data won't appear to fit in the cells and will not be visible when you are finished. We will fix this next. <br> ![11][11]
 
 <!-- Images -->
 [5]: images/tutorial1/5.png
@@ -135,3 +151,4 @@ Now, we want to actually create a table of data. Let's say Ned Flanders orders a
 [8]: images/tutorial1/8.png
 [9]: images/tutorial1/9.png
 [10]: images/tutorial1/10.png
+[11]: images/tutorial1/11.png
