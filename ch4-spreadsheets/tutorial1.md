@@ -108,9 +108,30 @@ The first thing that any good packing slip needs is the address of the customer.
 
 ### Fixing alignment
 
-Now, we need to fix some alignment issues which gives us a good opportunity to talk about how Excel treats numbers and text differently. When Excel sees a cell with any letters in it, it automatically assumes it's "text" in the sense that it's made up of words or phrases. Whenever you enter only numerical data, Excel sees a number and allows you to do some different things with it. For one, it will format them differently. Numbers always right-align by default and text always left-aligns by default. Think about how we read from left to right, but we add/subtract/multiply from right to left. In this particular case, we have a problem with the ZIP code because ZIP codes aren't really numbers in the traditional sense. You never add or multiply ZIP codes, so on the packing slip, it would look nicer if we format the ZIP code as if it were text.
+Now, we need to fix some alignment issues which gives us a good opportunity to talk about how Excel treats numbers and text differently. When Excel sees a cell with any letters in it, it automatically assumes it's "text" in the sense that it's made up of words or phrases. Whenever you enter only numerical data, Excel sees a number and allows you to do some different things with it. For one, it will format them differently. Numbers always right-align by default and text always left-aligns by default. Think about how we read from left to right, but we add/subtract/multiply from right to left. In this particular case, we have a problem with the ZIP code because ZIP codes aren't really numbers in the traditional sense. You never add or multiply ZIP codes, so on the packing slip, it would look nicer if we format the ZIP code as if it were treated as text.
 
+1. Select cell **B8**. <br> ![6][6]
+1. Click inside the forumla bar and place the insertion point at the beginning of the ZIP code before the first **4**. <br> ![7][7]
+1. Type an apostrophe, the **'** symbol. This is Excel's way of knowing that this all-numerical data is actually text. Once you hit **Enter**, you'll notice that the text left-aligns within the cell like the rest of the address. The only difference is that there is a tiny green arrow in the corner of the cell. You can safely ignore this. <br> ![8][8]
 
+### Fixing the documentation sheet
+
+If you click back over to the documentation sheet, you have entered today's date in cell B4. The interesting thing here is that Excel treats dates as numbers because you *can* add to a date. If you add 1 to a date in Excel, it will advance the date by one day which can be a very handy feature. We don't want to lose that, but we do want to play around with some of the formatting. So follow along.
+
+1. Ensure that you are on the **Documentation** sheet. First, we need to widen **column B**. Click on the line between the headers for columns **B** and **C**. Drag it all the way to the right so that it accomodates all of the data in column **B**. The width should be about 53. <br> ![9][9]
+1. Notice now that the date is right-aligned. This looks funny. But instead of converting the date to text, we will simply right-align it. Select cell **B4**. In the **Alignment** group, click the **Align Left** tool. <br> ![10][10]
+1. One of the fun things that we can do with numbers is change the way that they are displayed. Consider the dozens of different ways you can display a date. Let's change the way this date is displayed. With cell **B4** still selected, in the **Number** group. Click the drop-down that currently says **Date**. From the list, choose the **Long Date** format. Notice how the date is displayed. <br> ![11][11]
+
+### Entering Tabular Data
+
+Now, we want to actually create a table of data. Let's say Ned Flanders orders a bunch of our fine widgets and he orders a wide variety of them. Let's build a table that will clearly display all of the different widgets that he has ordered.
+
+1. 
 
 <!-- Images -->
 [5]: images/tutorial1/5.png
+[6]: images/tutorial1/6.png
+[7]: images/tutorial1/7.png
+[8]: images/tutorial1/8.png
+[9]: images/tutorial1/9.png
+[10]: images/tutorial1/10.png
