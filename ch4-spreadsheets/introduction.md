@@ -10,4 +10,5 @@ The spreadsheet is the software that earned the computer its keep. The promise o
 
 * [**Excel Tour**](excel_tour.md)
 * [**Spreadsheet Theory**](spreadsheet_theory.md)
-* [**TUTORIAL - Basic Formatting**](tutorial1.md)
+* [**TUTORIAL - Basic Formatting**](tutorial1-1.md)
+* [**TUTORIAL - Formatting and Basic Formulas**](tutorial1-2.md)

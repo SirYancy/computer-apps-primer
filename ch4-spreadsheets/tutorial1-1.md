@@ -9,6 +9,21 @@ Let's get started with something really straightforward. For this scenario, imag
 
 Your job is to put together packing lists of widgets when customers order them. Let's follow along
 
+## Key Tools and Concepts
+
+<dl>
+    <dd>Workbooks and Worksheets</dd>
+    <dt>You will create new worksheets and rename them to keep things organized</dt>
+    <dd>Documentation</dd>
+    <dt>You should always document everything you do so that you will help yourself or others know what it was that you did the next time the file is opened.</dt>
+    <dd>Numbers and Text</dd>
+    <dt>Learn to recognize how Excel treats numeric and alphanumeric data differently.</dt>
+    <dd>Data Entry</dd>
+    <dt>At some point, you do have to just enter some data by hand. It's tedious, but it's gotta be done. Once it is, you can do all of the fun Excel stuff to manipulate that data.</dt>
+    <dd>Tabular Data</dd>
+    <dt>Some of the data we enter here will be tabular. Tables are arranged by rows and columns and typically have some sort of heading row to identify the contents of each column.</dt>
+</dl>
+
 ## Tutorial
 
 There is no start file for this tutorial.
@@ -141,8 +156,14 @@ Now, we want to actually create a table of data. Let's say Ned Flanders orders a
   * FINISH
   * WIDGET
   * PRICE
-  * QUANTITY
-1. Under the headings, enter the data as shown in the table above in the cell range **A11:F15**. Some of the data won't appear to fit in the cells and will not be visible when you are finished. We will fix this next. <br> ![11][11]
+  * QUANTITY <br> ![12][12]
+1. Under the headings, enter the data as shown in the table above in the cell range **A11:F15**. Some of the data won't appear to fit in the cells and will not be visible when you are finished. We will fix this next. <br> ![13][13]
+1. Now, resize the columns so that all of the data fits well. A quick way to do this is, instead of **dragging** the border between headers, simply **double-click** on the border between headers and Excel will autmoatically resize the column to the width of the longest content in that column. <br> ![14][14]
+1. Finally, let's set some number formats. Select cells **E11:E15**. In the **Number** group, in the big dropdown, select the **Currency** style.
+
+![15][15]
+
+And there we have it. Compare yours to the above and if it looks reasonably similar, move on to the next part of the tutorial.
 
 <!-- Images -->
 [5]: images/tutorial1/5.png
@@ -152,3 +173,7 @@ Now, we want to actually create a table of data. Let's say Ned Flanders orders a
 [9]: images/tutorial1/9.png
 [10]: images/tutorial1/10.png
 [11]: images/tutorial1/11.png
+[12]: images/tutorial1/12.png
+[13]: images/tutorial1/13.png
+[14]: images/tutorial1/14.png
+[15]: images/tutorial1/15.png
