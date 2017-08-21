@@ -21,13 +21,15 @@ Traditionally, it takes 8 bits to represent, say, a letter of the alphabet. Toda
 
 There are many different ways that a computer can divide all those bits and bytes into space for individual files. And for our purposes, we don't really need to go into all of this. That said, if you would like to learn more about file systems, [Wikipedia](https://en.wikipedia.org/wiki/File_system) is a good place to start.
 
-Most modern computers use a [file and folder metaphor](https://en.wikipedia.org/wiki/Directory_(computing) to organize the data on a computer. While a computer directory system is quite a bit more complex than a filing cabinet, it is very useful to think about it as an infinitely deep file cabinet because it's easier for us to understand.
+Most modern computers use a <a href="https://en.wikipedia.org/wiki/Directory_(computing)">file and folder metaphor</a> to organize the data on a computer. While a computer directory system is quite a bit more complex than a filing cabinet, it is very useful to think about it as an infinitely deep file cabinet because it's easier for us to understand.
 
 Let's look at how Windows does this.
 
 ## TUTORIAL - The Windows Explorer App
 
-**Note:** If you are on a Windows machine, see how yours compares to the images below.
+<div class="alert alert-info">
+<strong>Note:</strong> Make a note of the ways that your computer differs from what you see below.
+</div>
 
 <ol>
     <li>
@@ -36,7 +38,7 @@ Let's look at how Windows does this.
             <img src="images/task_bar_file_highlighted.png" alt="task bar" />
             <figcaption>The File Manager Icon</figcaption>
         </figure>
-        Alternately, you can click on the Windows Start Button and then on the My Computer button:
+        Alternately, you can click on the <strong>Windows Start</strong> Button and then on the <strong>My Computer</strong> button:
         <figure>
             <img src="images/task_bar_windows_button_my_computer.png" alt="Start Menu" />
             <figcaption>The Start Menu</figcaption>
@@ -50,7 +52,7 @@ Let's look at how Windows does this.
         </figure>
     </li>
     <li>
-        Take a look around. There are three main areas of the window. The left sidebar is your <strong>navigation pane</strong> which allows you to quickly jump to common and important folders in your computer's file system. Get to know these links, as they can be very useful if you use them. Pay particular attention to the **Libraries** folders. Among your Libraries is the <strong>Documents</strong> folder which you should make a habit of using to store all of your working files so that they cannot get lost. In fact, on our campus, the Documents library is linked to your account and is accessible from any computer on campus. The main pane of the windows is where you'll see all of the files and folders contained in your active directory. You might see something different depending on how your computer is configured. Above that, you will see the <strong>address bar</strong> which tells you what part of the computer's file system you are looking at. In the screenshot above, it is looking at the top, root level of the computer. Below the address bar, you will see a tool bar that will change depending on where you are in the computer. Pay attention to what tools are available as you navigate through the file manager. Next, at the bottom, you will see the <strong>Details Pane</strong> which shows details about the currently selected item. This might include meta data about a file such as when it was created, how large it is, and who the author is. It might also tell you how much free hard drive space you have. Last, in the top right, there is the <strong>Search Box</strong> which can be very useful to find a particular file in the the current folder.
+        Take a look around. There are three main areas of the window. The left sidebar is your <strong>navigation pane</strong> which allows you to quickly jump to common and important folders in your computer's file system. Get to know these links, as they can be very useful if you use them. Pay particular attention to the <strong>Libraries</strong> folders. Among your Libraries is the <strong>Documents</strong> folder which you should make a habit of using to store all of your working files so that they cannot get lost. In fact, on our campus, the Documents library is linked to your account and is accessible from any computer on campus. The main pane of the windows is where you'll see all of the files and folders contained in your active directory. You might see something different depending on how your computer is configured. Above that, you will see the <strong>address bar</strong> which tells you what part of the computer's file system you are looking at. In the screenshot above, it is looking at the top, root level of the computer. Below the address bar, you will see a tool bar that will change depending on where you are in the computer. Pay attention to what tools are available as you navigate through the file manager. Next, at the bottom, you will see the <strong>Details Pane</strong> which shows details about the currently selected item. This might include meta data about a file such as when it was created, how large it is, and who the author is. It might also tell you how much free hard drive space you have. Last, in the top right, there is the <strong>Search Box</strong> which can be very useful to find a particular file in the the current folder.
     </li>
     <li>
         Click on the <strong>Documents</strong> folder in the left navigation pane.
