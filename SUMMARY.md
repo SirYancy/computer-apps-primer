@@ -1,7 +1,9 @@
 # Summary
 
 * [Introduction](README.md)
-* [1 - Computer Basics](ch1-computer-basics/basics.md)
+* [1 - Computer Basics](ch1-computer-basics/introduction.md)
+  * [What is a computer?](ch1-computer-basics/basics.md)
+  * [History of Computing](ch1-computer-basics/history_of_computing.md)
   * [The Operating System](ch1-computer-basics/operating_system.md)
   * [Windows 7 Tour](ch1-computer-basics/windows_7.md)
   * [TUTORIAL - The File System](ch1-computer-basics/file_system.md)
