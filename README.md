@@ -14,9 +14,4 @@ This living text will cover the basic use of computer software. Topics will incl
 * [4 - Spreadsheets](ch4-spreadsheets/introduction.md)
 * [5 - Databases](ch5-databases/5-databases.md)
 * The Internet
-* A Brief History of the Internet
-* How the Internet Works
-* How to set up a WordPress site
-* Alternatives to Microsoft Office
-* History of Computing
 * Digital Ethics

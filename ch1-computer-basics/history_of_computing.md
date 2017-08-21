@@ -113,11 +113,11 @@ This is not to _understate_ the importance the iPhone either. It's the first suc
 * Tim Berners-Lee, the Internet, and The World Wide Web - 1989
 * The Smartphone revolution - 2007-present
 * Five Generations
-  1. Mechanical/electromechanical
-  1. Vacuum Tubes
-  2. Transistors and Integrated circuits
-  3. Better ICs
-  4. Experimental/Theoretical (Quantum computers, DNA computers, etc)
+  * Mechanical/electromechanical
+  * Vacuum Tubes
+  * Transistors and Integrated circuits
+  * Better ICs
+  * Experimental/Theoretical (Quantum computers, DNA computers, etc)
 * Closing Thoughts - Moore's Law
   * The number of transistors in a dense integrated circuit doubles approximately every two years.
   * Gordon Moore, founder of Intel. 1965
