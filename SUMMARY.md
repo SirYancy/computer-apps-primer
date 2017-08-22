@@ -37,5 +37,5 @@
   * [Forms 1](ch5-databases/5-7-form-1.md)
   * [Reports 1](/ch5-databases/5-8-report-1.md)
   * [PROJECT](/ch5-databases/5-project.md)
-* [6 - The Internet](ch6-internet/introduction)
+* [6 - The Internet](ch6-internet/introduction.md)
   * [TUTORIAL - Set up a blog](ch6-internet/wordpress.md)
