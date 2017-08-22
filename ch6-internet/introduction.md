@@ -13,4 +13,4 @@ We will also look at the history and significance of the internet. We'll talk ab
 
 ## Web Development
 
-* [How to Set up a WordPress site](wordpress.md)
+* [**TUTORIAL - How to Set up a WordPress site**](wordpress.md)
