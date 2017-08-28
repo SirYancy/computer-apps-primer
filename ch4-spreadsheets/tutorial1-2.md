@@ -71,7 +71,36 @@ Why didn't it just copy the previous cell exactly? Well, as it turns out, Excel 
 
 ### Use the Fill Handle
 
+There's a quicker way to fill in a column of data like this by using the **fill handle**. The fill handle allows us to quickly copy and paste the contents of one cell into other cells while also updating the cell references in formulas. Let's try it out to see how it works.
 
+<figure>
+    <img src="images/tutorial1-2/2.png" alt="Fill Handle">
+    <figcaption>The Fill Handle</figcaption>
+</figure>
+
+1. Select cell **G11** again.
+1. Hold the mouse over the **Fill Handle**
+1. Notice how the cursor changes to a plus sign. **Click and drag** the fill handle down until the outline surrounds the entire column. <br> ![3][drag fill handle]
+1. **Release** the mouse button.
+1. Verify that the formulas in each cell have been updated and were correctly applied. It should look like this: <br> ![4][fill handle result]
+
+We will talk about the fill handle more in later sections as it is an immensely useful tool and this only scratches the surface of its capabilities.
+
+### Adding it all up - Formulas
+
+The next step is to get the subtotal of the packing slip. We want to know what the before-tax cost of all of the widgets will be. As it turns out, there is a very simple shortcut that can do this in less than a second, however, there's a lot going on behind the scenes to make it easy.
+
+We're going to use a **formula** to find the sum of all of the costs in the last column of our table. First, let's do it and then we'll look at what happened.
+
+1. Select cell **F16**. Type: **Subtotal**. Press **tab** to move to the next cell.
+1. In the **Home** tab, **Editing** group, there is a button with a Sigma (&Sigma;) symbol in it. This is the **AutoSum** tool. **Click it.**
+1. Observe what appears in the cell, the formula: `=SUM(G11:G15)`. Press **Enter**. The total, **$636.69** should appear. <br> ![5][formula result]
+
+The entry in cell **G16** a special kind of formula. It's a **function**. A function is a special, named tool for doing complex and repetitive computations quickly. Essentially what the `=SUM()` function does is add up all of the numbers that you put between the parentheses. In this case, it adds together the range of cells `G11:G15`. 
 
 <!-- Images -->
 [1]: images/tutorial1-2/1.png
+[3]: images/tutorial1-2/3.png
+[4]: images/tutorial1-2/4.png
+[5]: images/tutorial1-2/5.png
+
