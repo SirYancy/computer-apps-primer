@@ -114,9 +114,43 @@ Since we live in a world where the government always gets its share, we need to 
 1. Type `=SUM(`.
 1. Now, use the mouse to select cells **G16:G18**. Type `)`. Press **Enter**. The final formula (with the SUM() function) will look like this: `=SUM(G16:G18)` <br> ![total][8]
 
-### Finishing Touches
+### Inserting a row
 
-We're going to polish this thing up so it looks nice....
+You notice, when looking over Ned's order, that he also ordered 5 sets of capacitive directants, so that needs to be included on this packing slip and the total needs to be updated accordingly. As it turns out, Excel makes this easy.
+
+| BARCODE   | CONDITION | FINISH | WIDGET                | PRICE  | QUANTITY |
+|-----------|-----------|--------|-----------------------|--------|----------|
+| 1423-4667 | Used      | Clean  | capacitive diractants | $45.99 | 5        |
+
+1. Select all of **Row 13** by clicking on the row heading <br> ![select row 13][9]
+1. In the **Cells** group of the **Home** tab, press the **Insert** button. You now have a new row.
+1. Let's populate it with the necessary details from the above table.
+1. For the _COST_ column, simply click on cell **G12** and drag the **fill handle** down one cell. <br> ![fill handle][10]
+1. Notice now that the Subtotal, Tax, and Total cells have all automatically updated. <br> ![finished][11]
+
+### Adding Borders and Touches
+
+We're going to need to make it look nice printed since a packing slip is usually sent along with an order to verify that everything that was ordered was shipped. So we're going to add some cell borders and do a few other finishing touches.
+
+First, let's add the name of the company to the top of the packing slip and make it stand out.
+
+1. Just like the previous part, select all of **row 1** by clicking on the row 1 heading and clicking the **Insert** tool.
+1. In cell **A1**, type _We Got Widgets_. Hit **Enter** and re-select cell **A1**. Increase the font size of this cell to _28_.
+
+Next, let's add some cell borders.
+
+1. Select the cell range **A5:B9**.
+1. Click the down arrow next to the border tool and press the **All Borders** option from the border menu: <br> ![borders][12]
+1. Observe that the address section has all borders marked. <br> ![borders done][13]
+1. Select cell **A4** and click the **Borders** button. It will now default to "all borders" since it was the last border tool that you used. <br> ![next borders][14]
+1. Do the same with the following cells and cell ranges: **F10:G10**, **A11:G17**, **F18:G21**. <br>![all borders][15]
+
+If you were to hit print riht now, you would find that the way the content is arranged on the page, it will not fit on one sheet of paper. In order to remedy this, we just flip the orientation.
+
+1. Click on the **Page Layout** tab. Under the **Orientation** tool, select **Landscape**. <br> ![orienation][16]
+1. Click the **File** tab and select **Print**. Observe that the entire packing slip now fits neatly on a single page.
+
+Save your work and submit it to the portal.
 
 <!-- Images -->
 [1]: images/tutorial1-2/1.png
@@ -126,4 +160,11 @@ We're going to polish this thing up so it looks nice....
 [6]: images/tutorial1-2/6.png
 [7]: images/tutorial1-2/7.png
 [8]: images/tutorial1-2/8.png
-
+[9]: images/tutorial1-2/9.png
+[10]: images/tutorial1-2/10.png
+[11]: images/tutorial1-2/11.png
+[12]: images/tutorial1-2/12.png
+[13]: images/tutorial1-2/13.png
+[14]: images/tutorial1-2/14.png
+[15]: images/tutorial1-2/15.png
+[16]: images/tutorial1-2/16.png
