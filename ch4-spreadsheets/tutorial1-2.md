@@ -39,9 +39,9 @@ Here are some of the arithmetic operators that Excel accepts:
 
 Using these basic rules, you can create just about any simple mathematical expression that you can imagine. Try these examples on a blank spreadsheet (don't forget to use the correct symbols and to start with an equal sign):
 
-* `6 + 7 x 8`
-* `16 &divide; 8 - 2`
-* `(25 - 11) x 3`
+* 6 + 7 x 8
+* 16 &divide; 8 - 2
+* (25 - 11) x 3
 
 ### Cell References
 
