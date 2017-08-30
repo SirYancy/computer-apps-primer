@@ -80,9 +80,9 @@ There's a quicker way to fill in a column of data like this by using the **fill 
 
 1. Select cell **G11** again.
 1. Hold the mouse over the **Fill Handle**
-1. Notice how the cursor changes to a plus sign. **Click and drag** the fill handle down until the outline surrounds the entire column. <br> ![3][drag fill handle]
+1. Notice how the cursor changes to a plus sign. **Click and drag** the fill handle down until the outline surrounds the entire column. <br> ![drag fill handle][3]
 1. **Release** the mouse button.
-1. Verify that the formulas in each cell have been updated and were correctly applied. It should look like this: <br> ![4][fill handle result]
+1. Verify that the formulas in each cell have been updated and were correctly applied. It should look like this: <br> ![fill handle result][4]
 
 We will talk about the fill handle more in later sections as it is an immensely useful tool and this only scratches the surface of its capabilities.
 
@@ -94,13 +94,36 @@ We're going to use a **formula** to find the sum of all of the costs in the last
 
 1. Select cell **F16**. Type: **Subtotal**. Press **tab** to move to the next cell.
 1. In the **Home** tab, **Editing** group, there is a button with a Sigma (&Sigma;) symbol in it. This is the **AutoSum** tool. **Click it.**
-1. Observe what appears in the cell, the formula: `=SUM(G11:G15)`. Press **Enter**. The total, **$636.69** should appear. <br> ![5][formula result]
+1. Observe what appears in the cell, the formula: `=SUM(G11:G15)`. Press **Enter**. The total, **$636.69** should appear. <br> ![formula result][5]
 
 The entry in cell **G16** a special kind of formula. It's a **function**. A function is a special, named tool for doing complex and repetitive computations quickly. Essentially what the `=SUM()` function does is add up all of the numbers that you put between the parentheses. In this case, it adds together the range of cells `G11:G15`. 
+
+### Sales Tax and Shipping
+
+Since we live in a world where the government always gets its share, we need to include sales tax in our final tally. This is fairly easy to implement, but we want to ensure that our spreadsheet is re-usable and easy to change if the taxes change, so we're not going to hard-code it into the sales tax cell, we're going to create a tax box that we will pass by reference to our total. Let's see how it's going to work.
+
+1. Select cell **F9**. Type _Sales Tax_ and press **Tab**.
+1. Type _7.5%_. Press **Enter**. Note, that when you type a number and the percent symbol, Excel automatically formats it as a percentage and treats 7.5% as 0.075 for all mathematical operations with it.
+1. To make things look nicer, select the border between the row 9 and 10 headers and drag it down a little bit to make the row a little wider. This separates the table headings from the Sales Tax cells. <br> ![Sales Tax][6]
+1. Select cell **F17** and type _Tax_. Press **Tab**.
+1. In cell **G17**, enter the formula `=G16*G9`. Press **Enter**. Thus, on this order, Ned will be spending $31.83 in taxes.
+1. In cell **F18**, enter _Shipping_. Pres **Tab**.
+1. In Cell **G18**, enter the amount _$45.00_. Press **Enter**. <br> ![shipping][7]
+1. Now let's create a total row. In cell **F19** type _Total_. Press **Tab**.
+1. To get the final total for the order, we need to add the Subtotal, the Tax, and the Shipping. In this case, the AutoSum tool will not work, because it will behave unpredictably since we already have a sum function in the column. So, we need to do something else, We could enter a formula adding them all together, like `=G18+G17+G16`. However, let's use a function instead. Only we're going to enter the function by hand. So, ensure that cell **G19** is selected.
+1. Type `=SUM(`.
+1. Now, use the mouse to select cells **G16:G18**. Type `)`. Press **Enter**. The final formula (with the SUM() function) will look like this: `=SUM(G16:G18)` <br> ![total][8]
+
+### Finishing Touches
+
+We're going to polish this thing up so it looks nice....
 
 <!-- Images -->
 [1]: images/tutorial1-2/1.png
 [3]: images/tutorial1-2/3.png
 [4]: images/tutorial1-2/4.png
 [5]: images/tutorial1-2/5.png
+[6]: images/tutorial1-2/6.png
+[7]: images/tutorial1-2/7.png
+[8]: images/tutorial1-2/8.png
 
