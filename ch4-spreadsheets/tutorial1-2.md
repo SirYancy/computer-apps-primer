@@ -103,7 +103,7 @@ The entry in cell **G16** a special kind of formula. It's a **function**. A func
 Since we live in a world where the government always gets its share, we need to include sales tax in our final tally. This is fairly easy to implement, but we want to ensure that our spreadsheet is re-usable and easy to change if the taxes change, so we're not going to hard-code it into the sales tax cell, we're going to create a tax box that we will pass by reference to our total. Let's see how it's going to work.
 
 1. Select cell **F9**. Type _Sales Tax_ and press **Tab**.
-1. Type _7.5%_. Press **Enter**. Note, that when you type a number and the percent symbol, Excel automatically formats it as a percentage and treats 7.5% as 0.075 for all mathematical operations with it.
+1. Type _5%_. Press **Enter**. Note, that when you type a number and the percent symbol, Excel automatically formats it as a percentage and treats 7.5% as 0.075 for all mathematical operations with it.
 1. To make things look nicer, select the border between the row 9 and 10 headers and drag it down a little bit to make the row a little wider. This separates the table headings from the Sales Tax cells. <br> ![Sales Tax][6]
 1. Select cell **F17** and type _Tax_. Press **Tab**.
 1. In cell **G17**, enter the formula `=G16*G9`. Press **Enter**. Thus, on this order, Ned will be spending $31.83 in taxes.
@@ -149,6 +149,7 @@ If you were to hit print riht now, you would find that the way the content is ar
 
 1. Click on the **Page Layout** tab. Under the **Orientation** tool, select **Landscape**. <br> ![orienation][16]
 1. Click the **File** tab and select **Print**. Observe that the entire packing slip now fits neatly on a single page.
+1. Do not actually print the page.
 
 Save your work and submit it to the portal.
 
