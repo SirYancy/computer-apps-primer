@@ -4,10 +4,10 @@ One of Excel's most important jobs is to make tabular data readable and presenta
 
 ## Key Tools and Concepts
 <dl>
-    <dd>Format as Table</dd>
-    <dt>Excel has a tool for defining a table and formatting in a way that is more readable and useful and easier to read.</dt>
-    <dd>Cell Merge</dd>
-    <dt>Excel has a method for merging multiple cells into one. Useful for delineating one table from another or creating a table title.</dt>
+    <dt>Format as Table</dt>
+    <dd>Excel has a tool for defining a table and formatting in a way that is more readable and useful and easier to read.</dd>
+    <dt>Cell Merge</dt>
+    <dd>Excel has a method for merging multiple cells into one. Useful for delineating one table from another or creating a table title.</dd>
 </dl>
 
 ## Tutorial
