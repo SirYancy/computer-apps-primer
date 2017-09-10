@@ -3,8 +3,8 @@
 Let's get started with something really straightforward. For this scenario, imagine that you have started a web store where you sell widgets. The widgets come in all sorts of styles and designs and functions.
 
 <dl>
-    <dd>Widget</dd>
-    <dt>A small gadget or mechanical device, especially one whos name is unknown or unspecified.</dt>
+    <dt>Widget</dt>
+    <dd>A small gadget or mechanical device, especially one whos name is unknown or unspecified.</dd>
 </dl>
 
 Your job is to put together packing lists of widgets when customers order them. Let's follow along
@@ -12,16 +12,16 @@ Your job is to put together packing lists of widgets when customers order them. 
 ## Key Tools and Concepts
 
 <dl>
-    <dd>Workbooks and Worksheets</dd>
-    <dt>You will create new worksheets and rename them to keep things organized</dt>
-    <dd>Documentation</dd>
-    <dt>You should always document everything you do so that you will help yourself or others know what it was that you did the next time the file is opened.</dt>
-    <dd>Numbers and Text</dd>
-    <dt>Learn to recognize how Excel treats numeric and alphanumeric data differently.</dt>
-    <dd>Data Entry</dd>
-    <dt>At some point, you do have to just enter some data by hand. It's tedious, but it's gotta be done. Once it is, you can do all of the fun Excel stuff to manipulate that data.</dt>
-    <dd>Tabular Data</dd>
-    <dt>Some of the data we enter here will be tabular. Tables are arranged by rows and columns and typically have some sort of heading row to identify the contents of each column.</dt>
+    <dt>Workbooks and Worksheets</dt>
+    <dd>You will create new worksheets and rename them to keep things organized</dd>
+    <dt>Documentation</dt>
+    <dd>You should always document everything you do so that you will help yourself or others know what it was that you did the next time the file is opened.</dd>
+    <dt>Numbers and Text</dt>
+    <dd>Learn to recognize how Excel treats numeric and alphanumeric data differently.</dd>
+    <dt>Data Entry</dt>
+    <dd>At some point, you do have to just enter some data by hand. It's tedious, but it's gotta be done. Once it is, you can do all of the fun Excel stuff to manipulate that data.</dd>
+    <dt>Tabular Data</dt>
+    <dd>Some of the data we enter here will be tabular. Tables are arranged by rows and columns and typically have some sort of heading row to identify the contents of each column.</dd>
 </dl>
 
 ## Tutorial

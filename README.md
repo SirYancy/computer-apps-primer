@@ -13,5 +13,5 @@ This living text will cover the basic use of computer software. Topics will incl
 * [3 - Presentation Graphics](ch3-presentation/introduction.md)
 * [4 - Spreadsheets](ch4-spreadsheets/introduction.md)
 * [5 - Databases](ch5-databases/introduction.md)
-* [The Internet](ch6-internet/introduction.md)
+* [6 - The Internet](ch6-internet/introduction.md)
 * Digital Ethics
