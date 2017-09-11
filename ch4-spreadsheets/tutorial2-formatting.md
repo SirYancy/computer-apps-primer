@@ -16,7 +16,7 @@ The scenario is relatively simple. You are given a spreadsheet with some contact
 
 ### Download the Start File
 
-1. Download the ![Start File](http://erickuha.com/primer/excel_resources/formatting_start.xlsx)
+1. Download the [Start File](http://erickuha.com/primer/excel_resources/formatting_start.xlsx)
 1. Open the start file in Microsoft Excel. Acquaint yourself with the problems in the file. <br> ![1][1]
 
 ### Resize columns
