@@ -12,3 +12,5 @@ The spreadsheet is the software that earned the computer its keep. The promise o
 * [**Spreadsheet Theory**](spreadsheet_theory.md)
 * [**TUTORIAL - Basic Formatting**](tutorial1-1.md)
 * [**TUTORIAL - Formatting and Basic Formulas**](tutorial1-2.md)
+* [**TUTORIAL - Formatting Tables**](tutorial2-formatting.md)
+* [**PROJECT - Formulas Practice**](exercises1-formulas.md)

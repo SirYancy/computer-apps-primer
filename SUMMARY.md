@@ -25,6 +25,7 @@
   * [TUTORIAL - Excel Basics](ch4-spreadsheets/tutorial1-1.md)
   * [TUTORIAL - Formatting and Basic Formulas](ch4-spreadsheets/tutorial1-2.md)
   * [TUTORIAL - Formatting Tables](ch4-spreadsheets/tutorial2-formatting.md)
+  * [PROJECT - Formulas Practice](exercises1-formulas.md)
 * [5 - Databases](ch5-databases/5-databases.md)
   * [Getting Started](ch5-databases/5-1-getting-started.md)
   * [What is a Database?](ch5-databases/5-2-elements.md)
