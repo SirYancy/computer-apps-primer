@@ -1,4 +1,4 @@
-PROJECT 1 - Formulas Practice
+# PROJECT 1 - Formulas Practice
 
 This is a quick one. There are two scenarios presented in the workbook. On the first, you have a spreadsheet upon which your friend has kept track of all of thier bills for the last year. The only problem is, they are not entirely certain how to add it all up to see how much they paid over the course of the year. You will fill in the missing pieces using all that you have learned.
 
