@@ -58,7 +58,7 @@ In the following tutorial, we are going to write a basic block-style letter. In 
     <li>
         Type the following paragraph <em>exactly</em> as it appears here (typos and all):
         <pre>
-        Thank you for taking the time to resond to my question. Enclosed is an image of of the stone I found on my hike a couple weeks ago. I belive it is a meteorite, but my friends don't agree. So I wanted to ask someone more knowledgable about the subject. I know their is only a small chance that it is a meteorite, but I wanted to make sure. &crarr;
+Thank you for taking the time to resond to my question. Enclosed is an image of of the stone I found on my hike a couple weeks ago. I belive it is a meteorite, but my friends don't agree. So I wanted to ask someone more knowledgable about the subject. I know their is only a small chance that it is a meteorite, but I wanted to make sure. &crarr;
         </pre>
     </li>
     <li>
@@ -86,7 +86,7 @@ In the following tutorial, we are going to write a basic block-style letter. In 
     <li>
         Type the following paragraph as it appears here:
         <pre>
-        I understand that you are very busy and I appreciate you taking the time to verify this for me. If you have any questions, feel free to contact me at &lt;yourname&gt;@email.com. &crarr;
+I understand that you are very busy and I appreciate you taking the time to verify this for me. If you have any questions, feel free to contact me at &lt;yourname&gt;@email.com. &crarr;
         </pre>
         Where it says "yourname", enter your name. Notice that when you hit enter to create the next paragraph, the email address is automatically underlined in blue. Word has detected that it is an email address and has converted the text into a <strong>hyperlink</strong>. As a general rule, if you are going to be submitting the document electronically, you would leave the hyperlink as it is, but if you are going to be printing the document and hand-delivering or mailing it, then you should remove the hyperlink since you can't exactly click on a piece of paper.
     </li>
