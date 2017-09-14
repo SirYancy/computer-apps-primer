@@ -26,6 +26,7 @@
   * [TUTORIAL - Formatting and Basic Formulas](ch4-spreadsheets/tutorial1-2.md)
   * [TUTORIAL - Formatting Tables](ch4-spreadsheets/tutorial2-formatting.md)
   * [PROJECT - Formulas Practice](ch4-spreadsheets/exercises1-formulas.md)
+  * [TUTORIAL - Relative, Absolute, and Mixed References](ch4-spreadsheets/tutorial-references.md)
 * [5 - Databases](ch5-databases/5-databases.md)
   * [Getting Started](ch5-databases/5-1-getting-started.md)
   * [What is a Database?](ch5-databases/5-2-elements.md)

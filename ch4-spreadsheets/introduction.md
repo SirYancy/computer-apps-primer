@@ -14,3 +14,5 @@ The spreadsheet is the software that earned the computer its keep. The promise o
 * [**TUTORIAL - Formatting and Basic Formulas**](tutorial1-2.md)
 * [**TUTORIAL - Formatting Tables**](tutorial2-formatting.md)
 * [**PROJECT - Formulas Practice**](exercises1-formulas.md)
+* [**TUTORIAL - Relative, Absolute, and Mixed References**](tutorial-references.md)
+

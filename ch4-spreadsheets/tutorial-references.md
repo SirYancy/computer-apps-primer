@@ -86,8 +86,44 @@ There are two sheets in the start file. In the first part, we will fill in a pay
 ## Times Table
 So the first sheet is about filling in a payroll form and that's pretty neat. On the next sheet of this workbook, you might be surprised to discover that it is, in fact, blank. We're going to build a times table from scratch here. But we're going to do it Excel-style using a mixture of absolute and relative references. Specifically, we're going to see what happens when we employ what are called **Mixed References**. That is, references that lock in one or the other coordinate. For example, **A5** is a relative reference, **$A$5** is an absolute reference. There are two **Mixed References** as well: **$A5** and **A$5**. There are a few places where this is a very useful tool and this times table is our first attempt at this.  Follow along.
 
+1. Select the **Times Table** sheet by clicking on its tab at the bottom of the Excel window.
+1. Select cell **A1** and type "X" for times table.
+1. Select cell **B1** and type a _1_, then in cell **C1** enter a _2_.
+1. Now, select both cells **B1** and **C1**, and drag the fill handle to the right until the tooltip says _10_.<br> ![16][16]
+1. Follow the same steps to create a column of numbers from 1 to 10 in column **A**, so that it looks like this: <br> ![17][17]
+1. Style your new header row and column up however you like. Just dow something to make them stand out a bit. I decided to use dark-colored heading styles from the **Cell Styles** menu: <br> ![18][18]
+1. Now, think about how a times table works. What goes in cell **B2**? It should be the product of the numbers in cells **B1** and **A2**, right? So enter the formula: `=B1*A2`. The result is 1. <br> ![19][19]
+1. Next, ensure that cell **B2** is selected and drag the fill handle to the right to fill in the first row of the times table. I think you'll notice immediately that something isn't right: <br> ![20][20]
+1. Let's investigate the error. Our first clue is in the formula box. Since we know that 1 * 10 should equal 10 and _not_ 3,628,800. Since we used relative references, it incremented the coordinates for each cell that you dragged. Instead of multiplying the top row by the top column, it multiplied the cell above by the cell to the left. **Double-click** cell **K2** to see what I mean: <br> ![21][21]
+
+Okay, so what went wrong? We're multiplying the wrong cells together. The problem will only get worse if we use the fill handle to fill in the entire table. The numbers will get so large that they will overflow Excel's abillity to represent a number. So how about we use an _absolute reference_? Well, that doesn't work either since the cells don't increment _at all_. If you filled in the table, then every cell would just be multiplying B1 by A2 and every cell would just contain a 1. So is there some way that we can build this table without having to manually enter each cell? Yes! We will use what are called **Mixed References**.
+
+First we have to start thinking about the dollar signs ($) in our absolute reference syntax as locking in their corresponding coordinates. We just need to lock in the right coordinates on each of our operands in the first cell and we can just fill-handle the whole table.
+
+1. First, let's delete everything from the table except the contents of cell **B2**. <br> ![22][22]
+1. Now, let's look closely at the formula in the cell. `=B1*A2`. In every cell in this entire table, we will be mutliplying a number from Row **1** by a number from column **A**. So those coordinates in this formula need to stay the same, right? Let's lock them in with dollar signs. The formula becomes `=B$1*$A2`.
+1. Look very carefully at what's different here. We're locking in the **1** from the first operand and the **A** from the second operand. <br> ![23][23]
+1. Last step: Make sure that **B2** is selected and then **drag** the **fill handle** to the right. And then **drag** it down. And voila. The entire table is completed in a matter of seconds <br> ![24][24]
+
+Save your file, upload it to the portal. And try to think of other ways in which you can use mixed references like this.
 
 <!-- images -->
 
 [4]: images/tutorial_ref/4.png
 [5]: images/tutorial_ref/5.png
+[9]: images/tutorial_ref/9.png
+[10]: images/tutorial_ref/10.png
+[11]: images/tutorial_ref/11.png
+[12]: images/tutorial_ref/12.png
+[13]: images/tutorial_ref/13.png
+[14]: images/tutorial_ref/14.png
+[15]: images/tutorial_ref/15.png
+[16]: images/tutorial_ref/16.png
+[17]: images/tutorial_ref/17.png
+[18]: images/tutorial_ref/18.png
+[19]: images/tutorial_ref/19.png
+[20]: images/tutorial_ref/20.png
+[21]: images/tutorial_ref/21.png
+[22]: images/tutorial_ref/22.png
+[23]: images/tutorial_ref/23.png
+[24]: images/tutorial_ref/24.png
