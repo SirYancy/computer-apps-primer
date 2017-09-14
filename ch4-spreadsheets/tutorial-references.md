@@ -1,6 +1,6 @@
 # References: Absolute and Relative
 
-You will have noticed that when you use the fill handle, it has all sorts of interesting effects. For example, if you open a blank spreadsheet and put a **1** into any cell and then drag the fill handle down, it will fill in the cells below it with 1s.
+The **Fill Handle** is one of the most useful tools in any spreadsheet app. It has all sorts of different functions built in. For example, if you open a blank spreadsheet and put a **1** into any cell and then drag the fill handle down, it will fill in the cells below it with 1s.
 
 <figure>
     <img src="images/tutorial_ref/1.png" alt="1s">
