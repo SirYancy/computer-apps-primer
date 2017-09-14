@@ -13,16 +13,5 @@ figure {
 
 ol {
     background-color: #aec3b0;
-    counter-reset: item;
-}
-
-ol li {
-    display:block;
-}
-
-ol li:before {
-    content: counter(item)". ";
-    counter-increment: item;
-    font-weight: bold;
 }
 
