@@ -15,4 +15,4 @@ The spreadsheet is the software that earned the computer its keep. The promise o
 * [**TUTORIAL - Formatting Tables**](tutorial2-formatting.md)
 * [**PROJECT - Formulas Practice**](exercises1-formulas.md)
 * [**TUTORIAL - Relative, Absolute, and Mixed References**](tutorial-references.md)
-
+* [**TUTORIAL - Basic Charting**](tutorial-functions-charts.md)
