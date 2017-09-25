@@ -30,7 +30,7 @@ As you can see, it gives a fantastic visualization of the change in price over t
 
 ### Pie Chart
 
-A pie chart is great to compare parts of a whole. A particularly infamouse example would the United States budget. Here's a comparison of US spending vs US revenue in two pie charts:
+A pie chart is great to compare parts of a whole. A particularly infamous example would the United States budget. Here's a comparison of US spending vs US revenue in two pie charts:
 
 <figure>
     <img src="images/tutorial_charts/us-budget.png" alt="US Budget">
@@ -51,21 +51,21 @@ Bar graphs are great for comparing different groups of things. For instance, thi
 Scatter plots allow you to examine potential correlations between two variables. Sometimes there's a correlation and sometimes there isn't. Here's an example:
 
 <figure>
-    <img src="images/tutorial_charts/scatter1.jpg" alt="scatter1">
+    <img src="images/tutorial_charts/scatter1.png" alt="scatter1">
     <figcaption>Source: seattlecenteral.edu</figcaption>
 </figure>
 
 This scatter plot correlates ozone-depleting chemicals with time, showing a promising trend after the ban of CFCs.
 
 <figure>
-    <img src="images/tutorial_charts/scatter2.jpg" alt="scatter2">
+    <img src="images/tutorial_charts/scatter2.png" alt="scatter2">
     <figcaption>Source: seattlecenteral.edu</figcaption>
 </figure>
 
 This scatter plot shows the correlation between the length and width of a particular species of clam. This one is interesting in that it shows what's called a linear correlation. That is, you could easily draw a straight line through the points that would be very close to all of them.
 
 <figure>
-    <img src="images/tutorial_charts/scatter3.jpg" alt="scatter3">
+    <img src="images/tutorial_charts/scatter3.png" alt="scatter3">
     <figcaption>Source: seattlecenteral.edu</figcaption>
 </figure>
 
@@ -124,3 +124,17 @@ Next, let's make a pie chart to visualize how the year end totals relate to each
 1. Finally, change the chart title to **Total Bills** and move it to its own chart sheet.
 
 Submit the completed file to the portal.
+
+
+<!-- images -->
+[1]: images/tutorial_charts/1.png
+[2]: images/tutorial_charts/2.png
+[3]: images/tutorial_charts/3.png
+[4]: images/tutorial_charts/4.png
+[5]: images/tutorial_charts/5.png
+[6]: images/tutorial_charts/6.png
+[7]: images/tutorial_charts/7.png
+[8]: images/tutorial_charts/7.png
+[9]: images/tutorial_charts/8.png
+[10]: images/tutorial_charts/10.png
+[11]: images/tutorial_charts/11png
