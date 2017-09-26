@@ -91,7 +91,7 @@ Now we're going to add some columns for statistics. In particular, the **AVERAGE
 | MAX()     | Finds the highest number in a range of cells               |
 | MIN()     | Finds the lowest number in a range of cells                |
 
-Follow along:
+### Getting started
 
 1. In cell **O2**, enter the new column heading *AVERAGE*. Hit **ENTER**.
 1. In cell **O3**, enter the average function. Type ``=AVERAGE(``, then highlight the range **B3:M3**. Make sure you do not include the average column. Notice that when you hit enter, the entire column fills with averages. Excel has intelligently predicted what you are trying to do as a consequence of formatting the data as a table. Adjust the number of decimal places shown so it looks nice. <br> ![2][2]
@@ -99,6 +99,8 @@ Follow along:
 1. In cell **R2**, enter the new heading *Percent of Total*.
 1. Select cell **R3**. Enter `=`, click on cell **N3** (the total for the heating bill), press `/` for division, and click on cell **N7** (the total for all bills), finally press **F4** on the keyboard to convert the reference to **N7** into  an absolute reference. The final formula will end up looking like this (note how Excel automatically re-labels some cell references): `=[@Total]/$N$7`. When you hit **Enter**, it should fill in the rest of the column autmoatically!
 1. Change the number format of these cells to percentages, resize the column, and you should have something that looks like this: <br> ![4][4]
+
+### A bar graph
 
 Now, we want to make some charts. It would be useful to see how various bills fluctuate throughout the year. So we'll want to build a basic bar graph.
 
@@ -114,6 +116,8 @@ Now, we want to make some charts. It would be useful to see how various bills fl
 1. Finally, in the **Chart Tools: Design** tab, click **Move Chart** and select **New Sheet** and change the name to *Bills Chart*. This moves it to its own sheet in your workbook.
 1. If you like, feel free to change the **Chart Style** to something that looks nice.
 
+### A pie chart
+
 Next, let's make a pie chart to visualize how the year end totals relate to each other.
 
 1. Make sure you're on the Bills sheet.
@@ -122,6 +126,15 @@ Next, let's make a pie chart to visualize how the year end totals relate to each
 1. Now, select **Add Chart Element**, **Data Labels**, and select the **Data Callout** option. This puts the bill name and percentage on each pie slice. <br> ![10][10]
 1. Again, in **Add Chart Element**, **Legend**, select **None** since we don't need it with the data callouts. <br> ![11][11]
 1. Finally, change the chart title to **Total Bills** and move it to its own chart sheet.
+
+### Sparklines and Data Bars
+
+Let's explore two more charting and data visualization tools, **Sparklines** and **Data Bars**. Sparklines are like charts but they are contained to a single cell. Data bars are a kind of conditional formatting which allows us to visualize the data in the cells. Let's see how they work
+
+1. Select column **O** by clicking on its header.
+1. In the **Home** tab, in the **Cells** group, click **Insert**. This should insert a new blank column into our table.
+1. Click on the heading in Column **O** and change the heading to **Year Trend**. This is what it should all look like. <br> ![12][12]
+ 
 
 Submit the completed file to the portal.
 
