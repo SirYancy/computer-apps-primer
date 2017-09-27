@@ -136,7 +136,7 @@ Let's explore two more charting and data visualization tools, **Sparklines** and
 1. Click on the heading in Column **O** and change the heading to **Year Trend**. This is what it should all look like. <br> ![12][12]
  
 
-Submit the completed file to the portal.
+
 
 
 <!-- images -->
@@ -151,3 +151,4 @@ Submit the completed file to the portal.
 [9]: images/tutorial_charts/8.png
 [10]: images/tutorial_charts/10.png
 [11]: images/tutorial_charts/11png
+[12]: images/tutorial_charts/12png
