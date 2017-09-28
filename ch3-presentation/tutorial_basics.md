@@ -1,3 +1,0 @@
-# PowerPoint Basics
-
-
