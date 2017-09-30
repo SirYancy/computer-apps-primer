@@ -12,9 +12,13 @@ You're going to spend some time learning the basic tools that PowerPoint has to 
 * **Don't write in complete sentences.** Your bullets should be headlines. Use sentence fragments. Save the complete sentences for the speech.
 * **Don't go too crazy with animations and transitions.** Again, your PowerPoint skills are only ever going to be on trial in *this* class. Never again. No one else wants to see the cool animation you found, the funny background music, or the 12 minute YouTube video that you embedded in a slide (that probably won't work anyway because the internet doesn't work for some reason). Animations and transitions are nice, but only when they are not a distraction or worse, an annoyance.
 
-This list could go on infinitum, however, I believe the takeaway is pretty clear. Simplicity is best and a slide show is nothing more than a visual aid and never the end in itself (except, of course, for this one section of this class).
+This list could go on forever; however, I believe the takeaway is pretty clear. Simplicity is best and a slide show is nothing more than a visual aid and never the end in itself (except, of course, for this one section of this class).
 
 ## Tutorial
 
-You've been handed the task of finishing a PowerPoint slideshow that a coworker started last week. 
+<dl>
+    <dt>Widget</dt>
+    <dd>A small gadget or mechanical device, especially one whose name is unknown or unspecified.</dd>
+</dl>
 
+You work for Rockwell Automation in their public relations department and you are putting together a slideshow for a presentation to introduce your company to other people working in the industry. One of your coworkers started the presentation last week, only they didn't get much done. You need to finish it and make it look good for possible investors, customers, and other people in the industry.
