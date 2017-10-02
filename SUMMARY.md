@@ -29,6 +29,7 @@
   * [TUTORIAL - Relative, Absolute, and Mixed References](ch4-spreadsheets/tutorial-references.md)
   * [TUTORIAL - Basic Charting](ch4-spreadsheets/tutorial-functions-charts.md)
   * [TUTORIAL - Excel Review](ch4-spreadsheets/project_excel_review.md)
+  * [TUTORIAL - Pivot Tables](ch4-spreadsheets/tutorial_pivot_tables.md)
 * [5 - Databases](ch5-databases/5-databases.md)
   * [Getting Started](ch5-databases/5-1-getting-started.md)
   * [What is a Database?](ch5-databases/5-2-elements.md)
