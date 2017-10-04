@@ -1,10 +1,51 @@
 import requests
+import csv
 import json
 
-api_key = "59ecb95e623a2b6c"
+from datetime import date, timedelta
 
-r = requests.get("http://api.wunderground.com/api/59ecb95e623a2b6c/history_20160405/q/airport/kbji.json")
+one_day = timedelta(days=1)
+fmt = "%Y%m%d"
+outfmt = "%Y-%m-%d"
+d = date(2016, 1, 1)
 
-data = r.json()
+url = "http://api.wunderground.com/api/59ecb95e623a2b6c/history_"
+station = "/q/airport/kbji.json"
 
-print(data)
+daily = [
+        'meantempm',
+        'maxtempm',
+        'mintempm',
+        'meanpressurem',
+        'maxpressurem',
+        'minpressurem',
+        'humidity',
+        'maxhumidity',
+        'minhumidity',
+        'precipm',
+        ]
+
+fieldnames = list(daily)
+fieldnames.append('date')
+
+with open('weather.csv', 'a') as f:
+    fieldnames = daily
+    fieldnames.append('date')
+    writer = csv.DictWriter(f, fieldnames=fieldnames)
+    writer.writeheader()
+
+for i in range(366):
+    
+    r = requests.get(url + d.strftime(fmt) + station)
+
+    data = r.json()
+    with open('weather.csv', 'a') as f:
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        line = {}
+        for i in range(len(daily)):
+            line[daily[i]] = data['history']['dailysummary'][0][daily[i]]
+        line['date'] = d.strftime(outfmt)
+        writer.writerow(line)
+
+    d = d + one_day
+    print(d.strftime(outfmt))
