@@ -9,3 +9,4 @@ As always, this chapter focuses mostly on Microsoft Office's offering, **PowerPo
 ## PowerPoint Basics
 
 * [**PowerPoint Tour**](powerpoint_tour.md)
+* [**PROJECT - Animals**](project_animal.md)
