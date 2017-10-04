@@ -18,3 +18,4 @@ The spreadsheet is the software that earned the computer its keep. The promise o
 * [**TUTORIAL - Basic Charting**](tutorial-functions-charts.md)
 * [**TUTORIAL - Excel Review**](project_excel_review.md)
 * [**TUTORIAL - Pivot Tables**](tutorial_pivot_tables.md)
+* [**PROJECT - Pivot Tables: Baseball](project-pivot.md)
