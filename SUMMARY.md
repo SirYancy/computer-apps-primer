@@ -36,5 +36,6 @@
 * [5 - Databases](ch5-databases/introduction.md)
   * [Database Fundamentals](ch5-databases/fundamentals.md)
   * [Elements of a Database](ch5-databases/elements.md)
+  * [TUTORIAL - Tables](ch5-databases/tutorial-tables.md)
 * [6 - The Internet](ch6-internet/introduction.md)
   * [TUTORIAL - Set up a blog](ch6-internet/wordpress.md)
