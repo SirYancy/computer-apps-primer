@@ -1,0 +1,64 @@
+@startuml
+digraph G {
+
+node [shape=box,style=filled,color="#c8e8ae"];
+Forms
+node [shape=box,style=filled,color="#c2e4f6"];
+Tables
+node [shape=box,style=filled,color="#fd8e82"];
+Queries
+node [shape=box,style=filled,color="#feecad"];
+Reports
+
+Forms -> Tables [dir=both]
+Tables -> Queries
+Tables -> Reports
+Queries -> Reports
+}
+
+@enduml
+
+@startuml
+
+class Customer{
+    +Int ID
+    +string Name
+    +string PhoneNumber
+    +string Address
+    }
+    
+class Pet {
+  +Int ID
+  +string Name
+  +string Species
+  +Int Owner
+}
+
+Pet::Owner -> Customer::ID
+
+@enduml
+
+@startuml
+class Albums{
+    +Number ID
+    +Text AlbumName
+    +Date/Time ReleaseDate
+    +Number ArtistID
+    +Number GenreID
+}
+
+class Genres{
+    +Number ID
+    +Text Genre
+}
+
+class Artists{
+    +Number ID
+    +Text Name
+}
+
+Artists::ID -> Albums::ArtistID
+Genres::ID -> Albums::GenreID
+
+@enduml
+
