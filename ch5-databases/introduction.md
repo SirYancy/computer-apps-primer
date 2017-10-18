@@ -9,3 +9,4 @@ For this course, we will focus on [Microsoft Access](https://products.office.com
 * [**Database Fundamentals**](fundamentals.md)
 * [**Elements of a Database**](elements.md)
 * [**TUTORIAL - Tables**](tutorial-tables.md)
+* [**TUTORIAL - Data**](tutorial-data.md)
