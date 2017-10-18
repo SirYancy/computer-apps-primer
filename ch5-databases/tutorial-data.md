@@ -63,6 +63,8 @@ To fill out the rest of the Albums table, we'll use another csv file. The proces
 1. Click **Next**, and then **Finish**.
 1. Open the Albums table and observe the result: <br> ![12][12]
 
+Save everything, repair and compact your database, and then upload it to the class portal.
+
 In the next tutorial, we will begin querying our database.
 
 <!-- Images -->
