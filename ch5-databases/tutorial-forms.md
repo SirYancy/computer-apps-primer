@@ -81,3 +81,8 @@ Go to the **Form View**. Try to add a few new albums. Use artists and genres tha
 [18]: images/forms/18.png
 [19]: images/forms/19.png
 [20]: images/forms/20.png
+[21]: images/forms/21.png
+[22]: images/forms/22.png
+[23]: images/forms/23.png
+[24]: images/forms/24.png
+[25]: images/forms/25.png
