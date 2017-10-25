@@ -38,5 +38,6 @@
   * [Elements of a Database](ch5-databases/elements.md)
   * [TUTORIAL - Tables](ch5-databases/tutorial-tables.md)
   * [TUTORIAL - Data](ch5-databases/tutorial-data.md)
+  * [TUTORIAL - Forms](ch5-databases/tutorial-forms.md)
 * [6 - The Internet](ch6-internet/introduction.md)
   * [TUTORIAL - Set up a blog](ch6-internet/wordpress.md)
