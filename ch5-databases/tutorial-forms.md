@@ -46,9 +46,18 @@ The base form is there, but it's not quite ready yet. We can't add an album with
 1. In the Property Sheet, in the **List Items Edit Form**, select **ArtistsForm**. <br> ![19][19]
 1. Repeat this entire process once again to create a genre's Combo Box and the form will be complete and functional. <br> ![20][20]
 
-## Experiment with Adding New Albums, Artists, and Genres
+## Add A Couple Buttons
 
-**Coming Soon**
+Lastly, let's add some buttons so we can edit and add new records to the the table with a nice, clean, intuitive interface.
+
+1. With the AlbumsForm still open, click on the **Button** control in the **Form Layout: Design** tab. ![21][21]
+1. Place the button underneath the Genre Combo Box. The wizard will open. To select this button's function, selec the **Record Operations** category, and **Add New Record** Action. <br> ![22][22]
+1. On the next page of the wizard, leave the button image as the default (though truth be told, you really should find a different image, this one is small and kind of ambiguous). Hit **Next**.
+1. Name it **AddNewRecord** and hit **Finish**. Now you have a button. <br> ![23][23]
+1. Create two more buttons. One with the **Save Record** action and one with the **Delete Record** operation. Use the same procedure and give them suitable names. Lastly, add a fourth button with the **Find Record** action from the **Record Navigation** category. Now, your form has controls. <br> ![24][24]
+1. Go to the **Arrange** tab and play around with the layout grid until you have something that looks reasonably decent and organized. Here's what I came up with: <br> ![25][25]
+
+Go to the **Form View**. Try to add a few new albums. Use artists and genres that are not already in the database and see what happens. Try searching for a record using the buttons and use different filtering options. When you are finished. Save, everything. Compact & Repair your database. Upload it to the class portal.
 
 <!-- images -->
 
