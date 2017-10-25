@@ -50,3 +50,25 @@ The base form is there, but it's not quite ready yet. We can't add an album with
 
 **Coming Soon**
 
+<!-- images -->
+
+[1]: images/forms/1.png
+[2]: images/forms/2.png
+[3]: images/forms/3.png
+[4]: images/forms/4.png
+[5]: images/forms/5.png
+[6]: images/forms/6.png
+[7]: images/forms/7.png
+[8]: images/forms/8.png
+[9]: images/forms/9.png
+[10]: images/forms/10.png
+[11]: images/forms/11.png
+[12]: images/forms/12.png
+[13]: images/forms/13.png
+[14]: images/forms/14.png
+[15]: images/forms/15.png
+[16]: images/forms/16.png
+[17]: images/forms/17.png
+[18]: images/forms/18.png
+[19]: images/forms/19.png
+[20]: images/forms/20.png
