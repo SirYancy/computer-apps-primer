@@ -11,3 +11,4 @@ For this course, we will focus on [Microsoft Access](https://products.office.com
 * [**TUTORIAL - Tables**](tutorial-tables.md)
 * [**TUTORIAL - Data**](tutorial-data.md)
 * [**TUTORIAL - Forms**](tutorial-forms.md)
+* [**TUTORIAL - Queries**](tutorial-queries.md)
