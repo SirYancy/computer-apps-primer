@@ -53,3 +53,5 @@ For this tutorial, you should submit your compacted database file and both pdf f
 [9]: images/reports/9.png
 [10]: images/reports/10.png
 [11]: images/reports/11.png
+[12]: images/reports/12.png
+
