@@ -127,18 +127,6 @@ Next, let's make a pie chart to visualize how the year end totals relate to each
 1. Again, in **Add Chart Element**, **Legend**, select **None** since we don't need it with the data callouts. <br> ![11][11]
 1. Finally, change the chart title to **Total Bills** and move it to its own chart sheet.
 
-### Sparklines and Data Bars
-
-Let's explore two more charting and data visualization tools, **Sparklines** and **Data Bars**. Sparklines are like charts but they are contained to a single cell. Data bars are a kind of conditional formatting which allows us to visualize the data in the cells. Let's see how they work
-
-1. Select column **O** by clicking on its header.
-1. In the **Home** tab, in the **Cells** group, click **Insert**. This should insert a new blank column into our table.
-1. Click on the heading in Column **O** and change the heading to **Year Trend**. This is what it should all look like. <br> ![12][12]
- 
-
-
-
-
 <!-- images -->
 [1]: images/tutorial_charts/1.png
 [2]: images/tutorial_charts/2.png
@@ -147,8 +135,8 @@ Let's explore two more charting and data visualization tools, **Sparklines** and
 [5]: images/tutorial_charts/5.png
 [6]: images/tutorial_charts/6.png
 [7]: images/tutorial_charts/7.png
-[8]: images/tutorial_charts/7.png
-[9]: images/tutorial_charts/8.png
+[8]: images/tutorial_charts/8.png
+[9]: images/tutorial_charts/9.png
 [10]: images/tutorial_charts/10.png
 [11]: images/tutorial_charts/11png
 [12]: images/tutorial_charts/12png
