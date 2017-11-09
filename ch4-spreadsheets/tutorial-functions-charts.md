@@ -124,7 +124,7 @@ Next, let's make a pie chart to visualize how the year end totals relate to each
 1. Select the cell range `A3:A6`, the names of the four bills. Next, hold the *Ctrl* key while selecting the range `N3:N6`. This allows us to select both the names and the totals of each bill. <br> ![8][8]
 1. In the **Insert** tab, select the **Pie Chart** tool and select the first 2D pie chart. <br> ![9][9]
 1. Now, select **Add Chart Element**, **Data Labels**, and select the **Data Callout** option. This puts the bill name and percentage on each pie slice. <br> ![10][10]
-1. Again, in **Add Chart Element**, **Legend**, select **None** since we don't need it with the data callouts. <br> ![11][11]
+1. Again, in **Add Chart Element**, **Legend**, select **None** since we don't need it with the data callouts.
 1. Finally, change the chart title to **Total Bills** and move it to its own chart sheet.
 
 <!-- images -->
