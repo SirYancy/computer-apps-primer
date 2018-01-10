@@ -1,6 +1,6 @@
 # PROJECT 1 - Formulas Practice
 
-This is a quick one. There are two scenarios presented in the workbook. On the first, you have a spreadsheet upon which your friend has kept track of all of thier bills for the last year. The only problem is, they are not entirely certain how to add it all up to see how much they paid over the course of the year. You will fill in the missing pieces using all that you have learned.
+This is a quick one. There are two scenarios presented in the workbook. On the first, you have a spreadsheet upon which your friend has kept track of all of their bills for the last year. The only problem is, they are not entirely certain how to add it all up to see how much they paid over the course of the year. You will fill in the missing pieces using all that you have learned.
 
 In the second scenario, your co-worker brings you a requisition form on a spreadsheet showing the meat quantities for a company barbecue. Only problem is, your co-worker never took this class and has no idea how to calculate the totals in the spreadsheet. That's where you come in.
 
