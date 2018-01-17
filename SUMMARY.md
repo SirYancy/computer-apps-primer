@@ -41,7 +41,5 @@
   * [TUTORIAL - Forms](ch5-databases/tutorial-forms.md)
   * [TUTORIAL - Queries](ch5-databases/tutorial-queries.md)
   * [TUTORIAL - Reports](ch5-databases/tutorial-reports.md)
-* [6 - The Internet](ch6-internet/introduction.md)
-  * [TUTORIAL - Set up a blog](ch6-internet/wordpress.md)
 * [Appendix](appendix/introduction.md)
   * [ITECH 150 Final Project](appendix/final_project.md)
