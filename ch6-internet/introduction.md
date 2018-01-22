@@ -10,3 +10,7 @@ We will also look at the history and significance of the internet. We'll talk ab
 
 * [**History**](history.md)
 * [**How does the Internet work?**](what-is-internet.md)
+
+## Projects
+
+* [**Create a WebSite**](create-a-site.md)

@@ -11,7 +11,13 @@ The Internet is based on the principle of _packet switching_. This is the idea t
 
 Essentially, the stack works like this:
 
-1. An application (a Web browser, for example), decides it needs some resource from the internet. It makes a call to the TCP/IP system library. Next, the Transmission Control Protocol, takes the information the application is going to send and breaks it up into pieces (if necessary) and takes each piece and packages it up with some addressing information and other metadata into a nice neat little bundle called a packet. Next, it sends it on to the next layer, the Internet Protocol library. The IP layer examines the addressing layer and sends the packet to the next leg of its journey. The system hardware interface talks to your network hardware and encodes the packet into a digital signal which can be sent on a wire. From there, it winds its way across the Internet looking for its destination. Or rather, it's passed along from stop to stop like a hot potato and at each stop a router decides where to send it on to next. Finally, it reaches the destination computer and it climbes back up the stack. The network hardware deserializes the signal (puts it back into its packet form), the IP layer verifies that this is where it belongs, the TCP layer collects all of the packets and reassembles them if necessary, and finally, whatever application (possibly some web server sofware) looks at the request and decides how to respond to it like, for example, serving up a Web-page and sending it back down through the stack and across the internet back to your computer.
+1. An application (a Web browser, for example), decides it needs some resource from the internet. It makes a call to the TCP/IP system library.
+1. Next, the Transmission Control Protocol, takes the information the application is going to send and breaks it up into pieces (if necessary) and takes each piece and packages it up with some addressing information and other metadata into a nice neat little bundle called a packet.
+1. Next, it sends it on to the next layer, the Internet Protocol library. The IP layer examines the addressing layer and sends the packet to the next leg of its journey. 
+1. The system hardware interface talks to your network hardware and encodes the packet into a digital signal which can be sent on a wire. 
+1. From there, it winds its way across the Internet looking for its destination. Or rather, it's passed along from stop to stop like a hot potato and at each stop a router decides where to send it on to next. 
+1. When it reaches the destination computer, it climbs back up the stack. The network hardware deserializes the signal (puts it back into its packet form), the IP layer verifies that this is where it belongs, the TCP layer collects all of the packets and reassembles them if necessary, 
+1. Lastly, and finally, whatever application (possibly some web server sofware) looks at the request and decides how to respond to it. For example, it might serve up a Webpage and send it back down through the stack and across the internet back to your computer to be rendered in your web browser.
 
 Remember that on modern computers, this process happens very, very quickly (on the order of seconds), but in computer time, it's an incredibly slow and laborious process.
 
@@ -23,7 +29,7 @@ Briefly, it's useful to understand the Internet in terms of network hardware. Th
 
 Routing on the internet relies heavily on the **Domain Name System**, a network of computers that contain DNS look-up tables where they can take a web address also called a **Uniform Resource Locator** or **URL** and resolve it into an IP address.
 
-This page of this book is located at [https://itech.erickuha.com/ch6-internet/what-is-internet.html]. But what does that mean? Let's take the address apart and examine its parts.
+This page of this book is located at https://itech.erickuha.com/ch6-internet/what-is-internet.html. But what does that mean? Let's take the address apart and examine its parts.
 
 * **https://** - is the protocol. In particular, http is the protocol of the World Wide Web, called hypertext transfer protocol. It's a collection of commands that can be used to retrieve, update, or delete web pages.
 * **com** - The top-level domain of a website is where, organizationally, it exists. There used to be only a few of these, but now there are are many. Their main purpose is to make table-lookups faster by only searching part of the table (the part with all of the .com addresses, for example).
