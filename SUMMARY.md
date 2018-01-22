@@ -43,5 +43,6 @@
   * [TUTORIAL - Reports](ch5-databases/tutorial-reports.md)
 * [6 - Internet](ch6-internet/introduction.md)
   * [History of the Internet](ch6-internet/history.md)
+  * [How does the Internet work?](ch6-internet/what-is-internet.md)
 * [Appendix](appendix/introduction.md)
   * [ITECH 150 Final Project](appendix/final_project.md)

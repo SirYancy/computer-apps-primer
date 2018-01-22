@@ -9,4 +9,4 @@ We will also look at the history and significance of the internet. We'll talk ab
 ## History and Theory
 
 * [**History**](history.md)
-* How does the Internet work?
+* [**How does the Internet work?**](what-is-internet.md)
