@@ -63,7 +63,7 @@ Let's look at how Windows does this.
         This is my Documents folder at my workstation at work. Notice that there are many folders for all sorts of different aspects of my job (and hobbies).
     </li>
     <li>
-        <strong>Right-click</strong> in some empty space inside this folder. A context menu will appear (note, right-clicking on something in Windows will always bring up a context menu).
+        <strong>Right-click</strong> in some empty space inside this folder. A context menu will appear (<strong>remember</strong>, right-clicking on something in Windows will always bring up a context menu).
     </li>
     <li>
         <strong>Left-click</strong> on <strong>New</strong> and from the new menu that pops up, click on <strong>Folder</strong>. A new folder will appear in your Documents library and the name "New Folder" will be highlighted.
@@ -84,7 +84,7 @@ Let's look at how Windows does this.
     <li>
         <strong>Double-Click</strong> on the new file. Microsoft Word should open and your new empty file should open automatically.
     </li>
-    <li>Type some text into the file. Anything, really. Whatever you like. Just get something on the page. We will go into great detail about Word's capabilities in the next chapter, however, for now, anything will do. </li>
+    <li>Type some text into the file. Anything, really. Whatever you like. A joke, or an amusing story, or whatever. Just get something on the page. We will go into great detail about Word's capabilities in the next chapter, however, for now, anything will do. </li>
     <li>
         To save the Word Document, left-click on the <strong>File</strong> tab at the top-left of the screen. In the backstage menu that appears, select <strong>save</strong>.
         <figure>
@@ -97,6 +97,9 @@ Let's look at how Windows does this.
     </li>
     <li>
         Close all other apps and windows. To complete this tutorial, the instructor will come around to each student and verify that you can locate, open, and then close, the file that you just created. While that's happening, feel free to explore some of the other files. See if you can find anything interesting. If anything seems strange or arcane, see if you can figure out what it does or what it's for.
+    </li>
+    <li>
+    Finally, upload the file to Canvas and this lab is complete. This will be demonstrated in class.
     </li>
 </ol>
 
