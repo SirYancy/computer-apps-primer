@@ -8,9 +8,5 @@ We will also look at the history and significance of the internet. We'll talk ab
 
 ## History and Theory
 
-* History
+* [**History**](history.md)
 * How does the Internet work?
-
-## Web Development
-
-* [**TUTORIAL - How to Set up a WordPress site**](wordpress.md)
