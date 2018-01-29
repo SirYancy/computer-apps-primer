@@ -4,7 +4,7 @@ Building a website in the modern digital age is potentially quite easy. However,
 
 In this project, you will be building a web site from scratch using a powerful, long-established web software suite called [Wordpress](https://wordpress.com/).
 
-You may also use [Createspace](https://www.squarespace.com/).
+You may also use Squarespace.
 
 Once you have an idea for a Web site, the first thing that you must do is decide on what software to use and they all have their strengths and weaknesses. You have essentially four options:
 
