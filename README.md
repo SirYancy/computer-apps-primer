@@ -13,4 +13,8 @@ This living text will cover the basic use of computer software. Topics will incl
 * [3 - Presentation Graphics](ch3-presentation/introduction.md)
 * [4 - Spreadsheets](ch4-spreadsheets/introduction.md)
 * [5 - Databases](ch5-databases/introduction.md)
+* [6 - Internet](/ch6-internet/introduction.md)
 * [Appendix](appendix/introduction.md)
+
+
+
