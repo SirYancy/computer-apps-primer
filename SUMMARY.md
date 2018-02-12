@@ -33,6 +33,7 @@
   * [TUTORIAL - Pivot Tables](ch4-spreadsheets/tutorial_pivot_tables.md)
   * [PROJECT - Pivot Tables: Baseball](ch4-spreadsheets/project-pivot.md)
   * [PROJECT - Charting Weather Data](ch4-spreadsheets/project-chart.md)
+  * [ITECH 150 - Charting Weather 2](ch4-spreadsheets/project_weather_2.md)
 * [5 - Databases](ch5-databases/introduction.md)
   * [Database Fundamentals](ch5-databases/fundamentals.md)
   * [Elements of a Database](ch5-databases/elements.md)

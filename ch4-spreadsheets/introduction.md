@@ -20,3 +20,4 @@ The spreadsheet is the software that earned the computer its keep. The promise o
 * [**TUTORIAL - Pivot Tables**](tutorial_pivot_tables.md)
 * [**PROJECT - Pivot Tables: Baseball**](project-pivot.md)
 * [**PROJECT - Charting Weather Data**](project-chart.md)
+* [**ITECH 150 - PROJECT - Charting Weather Data REDUX**](project_weather_2.md)
