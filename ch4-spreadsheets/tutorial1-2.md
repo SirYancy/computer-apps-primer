@@ -64,7 +64,7 @@ You could pretty quickly just repeat this process in the remaining four cells. H
 
 1. Select cell **G11** again.
 1. Copy the contents of the cell by pressing **Ctrl-c** on the keyboard, or clicking on the **Copy** tool on the ribbon in the **Home** tab.
-1. Click on cell **C12**.
+1. Click on cell **G12**.
 1. Paste your formula into this cell by pressing **Ctrl-v** on the keyboard, or clicking the **Paste** button on the far left of the ribbon.
 
 Why didn't it just copy the previous cell exactly? Well, as it turns out, Excel is pretty smart. Its default behavior when you copy and paste a formula is to interpret cell references (like **F11** and **E11** in this case), _relative_ to the cell where the formula is being pasted. Think of it this way. From Excel's point of view, cell **G11** is multiplying the two cells to left of it. When you paste this formula into cell **G12**, it will do the same thing only it will multiply the two cells to the left of _it_, that is, **F12** and **E12**. This behavior is very, very important to our understanding of Excel and learning how to make it do what we want. Let's look at an even quicker way of handling this problem
