@@ -34,7 +34,7 @@ It looks pretty good, but, you may have to do a little cleaning up. For example,
 
 ### One More Report
 
-1. On your own, create one more report from the data in this database. I can be structured any way you like. Export it to a pdf.
+1. On your own, create one more report from the data in this database. It can be structured any way you like. Export it to a pdf.
 
 ### Submission
 
